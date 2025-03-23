@@ -1,0 +1,1939 @@
+Water Level,Soil Type,Land Area,Location,Temperature,Season,Crop Label
+266,Alluvial,16.86,Uttar Pradesh,29,Summer,Rice
+981,Red,16.72,Karnataka,14,Monsoon,Maize
+875,Sandy,19.65,Rajasthan,35,Summer,Bajra
+109,Loamy,10.21,Uttar Pradesh,39,Winter,Sugarcane
+524,Loamy,12.69,Uttar Pradesh,14,Winter,Sugarcane
+168,Clayey,9.43,Uttar Pradesh,33,Winter,Potatoes
+143,Red,3.96,Karnataka,27,Summer,Ragi
+263,Black,1.47,Madhya Pradesh,43,Winter,Rice
+785,Sandy,8.84,Kerala,38,Summer,Rubber
+427,Alluvial,9.2,Uttar Pradesh,15,Monsoon,Potatoes
+685,Mixed,13.73,Madhya Pradesh,34,Monsoon,Soybean
+968,Laterite,18.92,Karnataka,40,Monsoon,Ragi
+987,Desert,17.56,Rajasthan,38,Monsoon,Barley
+839,Black,9.98,Madhya Pradesh,21,Winter,Rice
+273,Loamy,0.95,Rajasthan,10,Winter,Mustard
+483,Clayey,2.73,Rajasthan,39,Monsoon,Pulses
+585,Black,16.29,Madhya Pradesh,32,Winter,Rice
+976,Red,15.02,Karnataka,40,Summer,Maize
+926,Alluvial,4.93,Uttar Pradesh,34,Summer,Potatoes
+145,Black,9.55,Madhya Pradesh,32,Winter,Soybean
+785,Sandy,9.98,Andhra Pradesh,36,Monsoon,Cotton
+920,Sandy,10.47,Rajasthan,13,Winter,Barley
+655,Clayey,13.82,Rajasthan,13,Summer,Mustard
+421,Clayey,10.81,Rajasthan,12,Summer,Pulses
+651,Red,7.05,Madhya Pradesh,11,Monsoon,Rice
+404,Red,4.24,Madhya Pradesh,14,Winter,Wheat
+623,Peaty,0.6,Kerala,24,Summer,Rice
+900,Loamy,14.42,Uttar Pradesh,41,Summer,Sugarcane
+691,Laterite,7.33,Kerala,29,Summer,Rubber
+321,Clayey,6.13,Uttar Pradesh,26,Winter,Rice
+384,Sandy,10.06,Rajasthan,28,Winter,Bajra
+869,Sandy,8.73,Kerala,15,Monsoon,Rubber
+861,Loamy,9.73,Uttar Pradesh,40,Winter,Rice
+543,Clayey,6.29,Uttar Pradesh,28,Summer,Rice
+819,Desert,4.03,Rajasthan,14,Winter,Mustard
+452,Alluvial,2.9,Uttar Pradesh,14,Summer,Sugarcane
+290,Mixed,0.94,Madhya Pradesh,37,Winter,Pulses
+213,Loamy,6.65,Uttar Pradesh,32,Monsoon,Rice
+924,Black,18.81,Andhra Pradesh,35,Summer,Rice
+120,Black,2.42,Madhya Pradesh,40,Summer,Rice
+151,Alluvial,4.6,Madhya Pradesh,16,Monsoon,Wheat
+339,Sandy,5.45,Kerala,36,Winter,Rubber
+683,Laterite,10.24,Karnataka,34,Summer,Sugarcane
+929,Black,17.25,Madhya Pradesh,22,Winter,Soybean
+799,Red,16.29,Karnataka,32,Winter,Rice
+370,Alluvial,17.3,Karnataka,44,Monsoon,Rice
+112,Alluvial,1.93,Madhya Pradesh,43,Monsoon,Wheat
+729,Black,16.25,Karnataka,33,Summer,Maize
+319,Alluvial,10.74,Andhra Pradesh,37,Monsoon,Cotton
+346,Laterite,10.48,Karnataka,32,Summer,Maize
+673,Loamy,11.9,Uttar Pradesh,18,Summer,Wheat
+988,Red,3.77,Andhra Pradesh,22,Winter,Cotton
+234,Sandy,12.22,Andhra Pradesh,45,Summer,Millets
+817,Clayey,18.8,Rajasthan,43,Monsoon,Mustard
+226,Alluvial,11.94,Andhra Pradesh,38,Winter,Millets
+650,Red,16.13,Andhra Pradesh,26,Summer,Millets
+568,Clayey,7.16,Rajasthan,41,Winter,Pulses
+539,Sandy,10.73,Rajasthan,10,Summer,Pulses
+412,Alluvial,14.1,Uttar Pradesh,39,Winter,Sugarcane
+685,Clayey,6.84,Uttar Pradesh,37,Winter,Sugarcane
+767,Desert,3.77,Rajasthan,20,Monsoon,Bajra
+161,Black,13.93,Andhra Pradesh,29,Monsoon,Millets
+238,Black,2.49,Karnataka,10,Summer,Sugarcane
+395,Laterite,8.61,Karnataka,19,Winter,Sugarcane
+771,Alluvial,15.93,Karnataka,43,Monsoon,Rice
+220,Laterite,11.52,Karnataka,25,Summer,Maize
+550,Black,8.84,Andhra Pradesh,26,Summer,Cotton
+492,Red,13.83,Madhya Pradesh,28,Winter,Soybean
+716,Mixed,10.67,Madhya Pradesh,33,Winter,Wheat
+423,Black,12.05,Madhya Pradesh,31,Summer,Pulses
+267,Laterite,4.45,Karnataka,14,Summer,Ragi
+458,Red,19.43,Madhya Pradesh,24,Summer,Wheat
+843,Red,7.28,Madhya Pradesh,31,Summer,Rice
+634,Red,12.01,Karnataka,27,Summer,Maize
+282,Desert,13.57,Rajasthan,14,Summer,Bajra
+347,Alluvial,11.5,Andhra Pradesh,43,Summer,Groundnut
+655,Clayey,5.25,Rajasthan,27,Winter,Pulses
+953,Alluvial,14.72,Uttar Pradesh,13,Winter,Rice
+827,Red,14.56,Karnataka,40,Winter,Rice
+299,Mixed,4.64,Madhya Pradesh,42,Winter,Wheat
+941,Clayey,6.79,Rajasthan,17,Winter,Mustard
+841,Alluvial,4.25,Madhya Pradesh,34,Winter,Wheat
+886,Alluvial,11.34,Madhya Pradesh,13,Winter,Pulses
+271,Mixed,17.74,Madhya Pradesh,41,Monsoon,Pulses
+563,Red,4.32,Andhra Pradesh,36,Winter,Millets
+402,Black,2.93,Karnataka,25,Monsoon,Ragi
+883,Clayey,13.57,Uttar Pradesh,17,Summer,Wheat
+784,Laterite,4.78,Kerala,32,Summer,Rice
+770,Red,3.2,Andhra Pradesh,31,Monsoon,Cotton
+322,Black,16.6,Madhya Pradesh,39,Summer,Wheat
+417,Alluvial,15.59,Andhra Pradesh,32,Winter,Millets
+485,Peaty,15.66,Kerala,28,Winter,Rubber
+146,Black,19.32,Karnataka,22,Summer,Sugarcane
+674,Red,11.63,Karnataka,11,Winter,Sugarcane
+740,Black,1.92,Madhya Pradesh,11,Summer,Rice
+526,Sandy,6.27,Rajasthan,10,Summer,Bajra
+819,Sandy,12.7,Andhra Pradesh,29,Winter,Rice
+852,Alluvial,1.89,Karnataka,28,Monsoon,Maize
+416,Loamy,13.14,Uttar Pradesh,39,Monsoon,Rice
+591,Alluvial,3.72,Karnataka,22,Monsoon,Sugarcane
+188,Clayey,10.55,Rajasthan,35,Monsoon,Mustard
+849,Loamy,16.52,Uttar Pradesh,35,Summer,Potatoes
+786,Clayey,3.25,Rajasthan,39,Winter,Mustard
+364,Red,0.56,Karnataka,37,Winter,Maize
+303,Loamy,3.11,Uttar Pradesh,19,Monsoon,Rice
+788,Sandy,6.36,Andhra Pradesh,23,Winter,Groundnut
+465,Loamy,9.58,Uttar Pradesh,28,Winter,Rice
+563,Clayey,19.83,Uttar Pradesh,25,Summer,Wheat
+150,Desert,1.84,Rajasthan,35,Monsoon,Pulses
+937,Alluvial,1.18,Andhra Pradesh,25,Summer,Cotton
+835,Alluvial,14.7,Madhya Pradesh,22,Monsoon,Wheat
+424,Loamy,3.31,Rajasthan,32,Winter,Bajra
+748,Black,15.21,Madhya Pradesh,33,Monsoon,Wheat
+802,Alluvial,17.5,Uttar Pradesh,20,Monsoon,Potatoes
+481,Alluvial,12.23,Uttar Pradesh,12,Winter,Sugarcane
+992,Sandy,14.64,Kerala,34,Monsoon,Rubber
+852,Sandy,17.3,Rajasthan,25,Summer,Bajra
+558,Clayey,14.66,Uttar Pradesh,20,Summer,Rice
+620,Loamy,18.04,Uttar Pradesh,13,Summer,Potatoes
+418,Loamy,3.65,Rajasthan,24,Winter,Pulses
+480,Red,9.23,Andhra Pradesh,37,Monsoon,Rice
+416,Clayey,16.77,Uttar Pradesh,14,Monsoon,Wheat
+765,Red,18.15,Karnataka,14,Winter,Ragi
+927,Sandy,17.43,Rajasthan,27,Winter,Mustard
+971,Alluvial,19.13,Karnataka,15,Winter,Maize
+893,Clayey,15.86,Uttar Pradesh,39,Monsoon,Potatoes
+556,Red,16.07,Madhya Pradesh,38,Winter,Soybean
+315,Clayey,12.28,Uttar Pradesh,31,Winter,Rice
+982,Alluvial,19.2,Karnataka,24,Winter,Maize
+917,Black,16.13,Karnataka,39,Summer,Sugarcane
+206,Laterite,8.92,Karnataka,28,Monsoon,Rice
+265,Peaty,16.23,Kerala,39,Summer,Coconut
+481,Sandy,2.96,Andhra Pradesh,15,Summer,Millets
+362,Clayey,1.62,Uttar Pradesh,12,Summer,Wheat
+750,Alluvial,0.73,Karnataka,36,Winter,Rice
+486,Loamy,18.04,Uttar Pradesh,18,Summer,Potatoes
+937,Red,10.48,Madhya Pradesh,15,Monsoon,Soybean
+154,Red,18.84,Karnataka,40,Winter,Rice
+467,Sandy,13.96,Rajasthan,15,Summer,Pulses
+953,Red,13.72,Madhya Pradesh,45,Monsoon,Wheat
+324,Red,3.29,Karnataka,11,Winter,Sugarcane
+572,Clayey,2.65,Uttar Pradesh,41,Winter,Wheat
+340,Alluvial,9.68,Karnataka,44,Winter,Sugarcane
+760,Loamy,12.61,Uttar Pradesh,22,Monsoon,Rice
+516,Sandy,16.89,Andhra Pradesh,12,Winter,Millets
+728,Laterite,3.4,Kerala,28,Summer,Spices
+472,Clayey,15.48,Rajasthan,43,Winter,Pulses
+706,Black,19.28,Madhya Pradesh,27,Summer,Pulses
+532,Red,3.21,Andhra Pradesh,19,Monsoon,Groundnut
+101,Red,16.21,Karnataka,18,Summer,Rice
+463,Alluvial,19.92,Karnataka,36,Monsoon,Rice
+352,Black,10.35,Karnataka,19,Monsoon,Maize
+631,Sandy,5.68,Kerala,32,Winter,Spices
+655,Red,15.64,Madhya Pradesh,34,Monsoon,Soybean
+103,Clayey,11.02,Uttar Pradesh,12,Summer,Sugarcane
+355,Red,8.9,Madhya Pradesh,35,Winter,Rice
+659,Alluvial,11.01,Kerala,23,Winter,Coconut
+836,Loamy,19.18,Rajasthan,38,Summer,Barley
+376,Clayey,8.72,Uttar Pradesh,36,Winter,Sugarcane
+278,Loamy,8.1,Uttar Pradesh,33,Winter,Wheat
+459,Alluvial,5.16,Kerala,39,Winter,Rice
+112,Alluvial,13.78,Madhya Pradesh,12,Monsoon,Wheat
+902,Alluvial,12.64,Madhya Pradesh,40,Summer,Pulses
+285,Black,17.59,Madhya Pradesh,22,Summer,Rice
+190,Laterite,8.15,Karnataka,42,Monsoon,Ragi
+686,Alluvial,0.93,Madhya Pradesh,45,Summer,Soybean
+313,Laterite,9.65,Kerala,18,Winter,Spices
+752,Loamy,12.64,Rajasthan,10,Monsoon,Pulses
+465,Loamy,18.47,Rajasthan,42,Winter,Bajra
+265,Clayey,18.16,Rajasthan,13,Monsoon,Barley
+311,Black,16.0,Karnataka,29,Monsoon,Rice
+558,Peaty,4.98,Kerala,44,Winter,Spices
+396,Red,16.35,Karnataka,26,Summer,Rice
+635,Loamy,17.92,Uttar Pradesh,21,Monsoon,Wheat
+502,Sandy,9.18,Rajasthan,24,Winter,Mustard
+778,Black,0.67,Andhra Pradesh,12,Monsoon,Millets
+923,Desert,6.63,Rajasthan,39,Monsoon,Bajra
+431,Red,3.02,Andhra Pradesh,20,Summer,Rice
+622,Loamy,15.96,Uttar Pradesh,14,Winter,Potatoes
+234,Sandy,9.33,Rajasthan,34,Winter,Mustard
+939,Loamy,16.38,Rajasthan,44,Monsoon,Bajra
+444,Loamy,17.25,Uttar Pradesh,35,Monsoon,Wheat
+308,Sandy,13.4,Andhra Pradesh,39,Monsoon,Rice
+897,Loamy,8.0,Rajasthan,15,Summer,Pulses
+986,Loamy,2.58,Uttar Pradesh,30,Summer,Potatoes
+428,Red,11.99,Karnataka,21,Winter,Ragi
+238,Red,12.33,Karnataka,12,Winter,Rice
+874,Clayey,17.36,Uttar Pradesh,34,Summer,Potatoes
+772,Sandy,2.39,Rajasthan,23,Summer,Mustard
+633,Sandy,6.86,Kerala,36,Monsoon,Rice
+117,Sandy,2.08,Andhra Pradesh,13,Monsoon,Groundnut
+117,Sandy,16.62,Kerala,28,Summer,Rice
+883,Loamy,3.42,Uttar Pradesh,19,Summer,Potatoes
+898,Peaty,8.32,Kerala,22,Monsoon,Rice
+403,Clayey,11.1,Uttar Pradesh,30,Summer,Rice
+555,Red,12.3,Andhra Pradesh,23,Winter,Millets
+813,Alluvial,3.68,Andhra Pradesh,18,Summer,Millets
+751,Desert,5.05,Rajasthan,44,Summer,Mustard
+135,Clayey,15.12,Rajasthan,11,Winter,Pulses
+803,Alluvial,9.92,Uttar Pradesh,31,Summer,Rice
+211,Loamy,8.26,Uttar Pradesh,23,Monsoon,Wheat
+627,Black,8.98,Andhra Pradesh,12,Winter,Cotton
+912,Black,12.35,Karnataka,21,Summer,Maize
+545,Laterite,10.34,Karnataka,24,Summer,Sugarcane
+917,Clayey,9.28,Uttar Pradesh,40,Summer,Sugarcane
+206,Black,4.06,Madhya Pradesh,33,Summer,Wheat
+968,Black,5.74,Andhra Pradesh,22,Summer,Rice
+876,Loamy,19.99,Uttar Pradesh,36,Monsoon,Potatoes
+666,Clayey,2.66,Uttar Pradesh,35,Winter,Rice
+432,Desert,0.97,Rajasthan,28,Summer,Mustard
+605,Laterite,5.91,Kerala,25,Monsoon,Rice
+758,Loamy,7.35,Uttar Pradesh,12,Summer,Potatoes
+674,Black,9.01,Andhra Pradesh,27,Summer,Millets
+395,Black,8.77,Andhra Pradesh,16,Winter,Cotton
+167,Laterite,18.22,Karnataka,35,Monsoon,Rice
+113,Laterite,15.84,Karnataka,13,Monsoon,Maize
+595,Sandy,2.91,Kerala,29,Summer,Rubber
+777,Alluvial,4.32,Andhra Pradesh,34,Monsoon,Groundnut
+243,Loamy,10.86,Rajasthan,34,Winter,Mustard
+487,Laterite,15.56,Karnataka,26,Winter,Rice
+433,Black,17.37,Madhya Pradesh,39,Summer,Rice
+499,Alluvial,1.45,Karnataka,22,Monsoon,Rice
+184,Sandy,6.32,Kerala,25,Monsoon,Spices
+355,Sandy,19.13,Rajasthan,25,Winter,Mustard
+873,Alluvial,6.08,Kerala,16,Summer,Rice
+504,Sandy,19.43,Rajasthan,10,Summer,Pulses
+258,Loamy,17.86,Rajasthan,17,Monsoon,Pulses
+971,Loamy,5.61,Uttar Pradesh,41,Summer,Rice
+494,Desert,15.26,Rajasthan,19,Winter,Pulses
+473,Black,12.02,Madhya Pradesh,22,Summer,Soybean
+786,Black,14.98,Andhra Pradesh,39,Summer,Millets
+665,Black,1.93,Andhra Pradesh,30,Monsoon,Groundnut
+448,Red,18.0,Andhra Pradesh,14,Summer,Millets
+491,Sandy,3.98,Kerala,27,Summer,Coconut
+230,Alluvial,8.55,Madhya Pradesh,40,Summer,Wheat
+692,Black,10.76,Andhra Pradesh,34,Winter,Cotton
+665,Black,1.64,Madhya Pradesh,35,Monsoon,Wheat
+884,Laterite,4.56,Kerala,24,Summer,Rubber
+205,Loamy,17.11,Uttar Pradesh,44,Winter,Wheat
+686,Red,17.08,Andhra Pradesh,33,Winter,Rice
+698,Mixed,11.09,Madhya Pradesh,44,Monsoon,Soybean
+562,Alluvial,8.12,Andhra Pradesh,38,Monsoon,Rice
+345,Peaty,13.99,Kerala,25,Summer,Rice
+475,Red,7.54,Madhya Pradesh,27,Summer,Soybean
+558,Sandy,12.78,Rajasthan,35,Winter,Barley
+978,Black,6.99,Andhra Pradesh,12,Summer,Millets
+689,Sandy,7.02,Kerala,23,Monsoon,Spices
+854,Laterite,3.89,Kerala,33,Winter,Coconut
+803,Red,11.42,Karnataka,23,Monsoon,Rice
+922,Laterite,7.84,Karnataka,15,Winter,Sugarcane
+456,Laterite,4.2,Kerala,44,Monsoon,Rice
+305,Loamy,11.92,Uttar Pradesh,17,Monsoon,Rice
+478,Alluvial,18.03,Uttar Pradesh,40,Winter,Potatoes
+626,Red,11.74,Karnataka,20,Monsoon,Ragi
+884,Red,13.23,Madhya Pradesh,19,Winter,Pulses
+198,Alluvial,8.82,Uttar Pradesh,17,Monsoon,Wheat
+533,Loamy,9.82,Rajasthan,38,Winter,Bajra
+724,Alluvial,13.48,Kerala,13,Summer,Rice
+816,Desert,3.97,Rajasthan,42,Monsoon,Barley
+962,Peaty,4.58,Kerala,26,Monsoon,Rubber
+313,Peaty,19.06,Kerala,21,Summer,Rubber
+343,Sandy,19.56,Kerala,23,Monsoon,Rubber
+543,Loamy,17.6,Uttar Pradesh,37,Summer,Sugarcane
+868,Alluvial,17.61,Kerala,32,Winter,Rice
+366,Alluvial,5.64,Kerala,15,Winter,Coconut
+486,Sandy,8.43,Rajasthan,29,Monsoon,Pulses
+372,Alluvial,18.09,Kerala,26,Winter,Coconut
+241,Black,6.86,Andhra Pradesh,40,Summer,Cotton
+798,Clayey,3.6,Uttar Pradesh,27,Summer,Wheat
+633,Clayey,14.04,Uttar Pradesh,30,Monsoon,Sugarcane
+888,Sandy,5.9,Andhra Pradesh,40,Monsoon,Rice
+757,Sandy,17.84,Andhra Pradesh,36,Summer,Rice
+829,Black,6.85,Madhya Pradesh,36,Monsoon,Wheat
+621,Alluvial,13.31,Kerala,18,Summer,Rubber
+394,Black,19.22,Madhya Pradesh,31,Winter,Soybean
+733,Loamy,19.42,Uttar Pradesh,32,Monsoon,Wheat
+371,Mixed,18.35,Madhya Pradesh,14,Winter,Rice
+513,Laterite,6.22,Kerala,24,Summer,Spices
+728,Mixed,15.83,Madhya Pradesh,23,Summer,Wheat
+619,Loamy,8.92,Rajasthan,41,Monsoon,Bajra
+817,Alluvial,4.36,Uttar Pradesh,33,Winter,Sugarcane
+362,Sandy,11.02,Kerala,16,Monsoon,Coconut
+964,Alluvial,3.72,Andhra Pradesh,36,Monsoon,Rice
+374,Alluvial,1.99,Andhra Pradesh,19,Summer,Millets
+475,Sandy,15.92,Rajasthan,20,Winter,Bajra
+417,Alluvial,4.14,Uttar Pradesh,32,Summer,Rice
+948,Alluvial,18.9,Uttar Pradesh,39,Summer,Rice
+104,Red,6.48,Karnataka,18,Summer,Sugarcane
+665,Alluvial,6.37,Madhya Pradesh,26,Summer,Soybean
+568,Black,3.55,Andhra Pradesh,22,Summer,Millets
+871,Sandy,5.55,Andhra Pradesh,21,Summer,Groundnut
+468,Black,9.66,Madhya Pradesh,39,Summer,Pulses
+651,Black,2.07,Madhya Pradesh,41,Winter,Rice
+173,Sandy,14.6,Andhra Pradesh,37,Monsoon,Groundnut
+726,Sandy,15.06,Andhra Pradesh,39,Monsoon,Rice
+323,Black,17.79,Madhya Pradesh,40,Monsoon,Wheat
+314,Red,16.28,Andhra Pradesh,44,Summer,Millets
+979,Red,7.63,Karnataka,44,Summer,Maize
+493,Black,11.92,Madhya Pradesh,31,Monsoon,Pulses
+487,Alluvial,16.52,Madhya Pradesh,19,Monsoon,Rice
+946,Alluvial,11.7,Madhya Pradesh,14,Winter,Soybean
+955,Red,9.67,Karnataka,21,Summer,Sugarcane
+756,Clayey,3.16,Rajasthan,43,Summer,Mustard
+166,Alluvial,16.94,Madhya Pradesh,34,Winter,Pulses
+529,Sandy,18.85,Kerala,39,Summer,Rice
+218,Loamy,18.39,Uttar Pradesh,38,Winter,Potatoes
+694,Alluvial,9.14,Karnataka,12,Monsoon,Sugarcane
+891,Black,10.77,Andhra Pradesh,41,Winter,Cotton
+414,Clayey,1.92,Uttar Pradesh,18,Monsoon,Wheat
+250,Red,1.6,Andhra Pradesh,26,Winter,Groundnut
+572,Sandy,13.95,Kerala,27,Summer,Coconut
+217,Red,1.11,Madhya Pradesh,19,Monsoon,Soybean
+909,Black,6.94,Karnataka,16,Monsoon,Rice
+470,Peaty,9.01,Kerala,30,Monsoon,Rubber
+438,Red,0.99,Madhya Pradesh,42,Monsoon,Rice
+163,Laterite,9.36,Karnataka,11,Winter,Sugarcane
+714,Alluvial,6.41,Andhra Pradesh,15,Monsoon,Millets
+918,Black,13.21,Madhya Pradesh,24,Winter,Pulses
+492,Sandy,0.74,Rajasthan,20,Summer,Bajra
+271,Red,3.55,Andhra Pradesh,43,Monsoon,Millets
+771,Black,12.25,Karnataka,35,Summer,Maize
+345,Red,10.63,Karnataka,22,Summer,Rice
+674,Black,18.76,Karnataka,31,Summer,Sugarcane
+893,Loamy,0.57,Rajasthan,16,Monsoon,Mustard
+615,Mixed,14.35,Madhya Pradesh,26,Summer,Pulses
+607,Red,14.35,Andhra Pradesh,17,Winter,Groundnut
+664,Black,16.33,Madhya Pradesh,40,Winter,Rice
+155,Desert,6.23,Rajasthan,40,Monsoon,Pulses
+830,Desert,1.85,Rajasthan,17,Winter,Barley
+723,Black,2.45,Andhra Pradesh,11,Monsoon,Rice
+865,Alluvial,8.38,Karnataka,20,Summer,Rice
+756,Loamy,15.41,Rajasthan,31,Winter,Bajra
+502,Clayey,17.6,Rajasthan,45,Monsoon,Bajra
+695,Alluvial,9.68,Andhra Pradesh,30,Winter,Groundnut
+650,Desert,7.8,Rajasthan,38,Monsoon,Mustard
+326,Red,15.51,Madhya Pradesh,27,Summer,Soybean
+712,Laterite,1.28,Karnataka,14,Monsoon,Ragi
+880,Black,16.77,Madhya Pradesh,25,Monsoon,Wheat
+996,Loamy,15.3,Uttar Pradesh,38,Summer,Wheat
+700,Alluvial,19.67,Kerala,35,Winter,Rice
+251,Black,7.58,Andhra Pradesh,19,Monsoon,Rice
+933,Alluvial,14.78,Andhra Pradesh,45,Winter,Millets
+540,Clayey,14.73,Uttar Pradesh,17,Monsoon,Sugarcane
+249,Loamy,13.4,Uttar Pradesh,15,Summer,Sugarcane
+659,Alluvial,1.44,Uttar Pradesh,20,Monsoon,Wheat
+110,Sandy,5.64,Kerala,38,Monsoon,Rubber
+463,Red,8.08,Madhya Pradesh,40,Winter,Soybean
+174,Laterite,7.75,Karnataka,12,Summer,Sugarcane
+180,Alluvial,10.05,Uttar Pradesh,16,Winter,Rice
+408,Loamy,8.78,Rajasthan,25,Summer,Barley
+493,Alluvial,6.63,Uttar Pradesh,41,Summer,Rice
+773,Sandy,12.08,Rajasthan,29,Winter,Bajra
+838,Red,19.32,Karnataka,38,Monsoon,Ragi
+829,Black,7.01,Karnataka,34,Winter,Ragi
+617,Alluvial,7.32,Madhya Pradesh,24,Winter,Soybean
+389,Mixed,9.01,Madhya Pradesh,17,Summer,Soybean
+714,Black,8.49,Karnataka,39,Winter,Sugarcane
+415,Clayey,16.63,Uttar Pradesh,20,Monsoon,Rice
+280,Alluvial,15.12,Uttar Pradesh,32,Winter,Wheat
+137,Alluvial,10.91,Karnataka,14,Monsoon,Sugarcane
+804,Sandy,18.69,Rajasthan,13,Monsoon,Bajra
+109,Loamy,2.42,Rajasthan,17,Winter,Bajra
+335,Laterite,12.01,Karnataka,31,Winter,Sugarcane
+594,Clayey,14.12,Rajasthan,28,Monsoon,Pulses
+143,Loamy,15.57,Uttar Pradesh,37,Monsoon,Rice
+495,Black,18.8,Karnataka,10,Winter,Ragi
+215,Mixed,15.43,Madhya Pradesh,40,Winter,Wheat
+364,Loamy,10.43,Uttar Pradesh,13,Monsoon,Potatoes
+894,Sandy,1.22,Rajasthan,36,Summer,Pulses
+879,Laterite,2.87,Kerala,28,Winter,Rice
+193,Alluvial,8.28,Karnataka,32,Winter,Sugarcane
+342,Black,5.24,Karnataka,15,Summer,Sugarcane
+810,Red,6.51,Andhra Pradesh,21,Winter,Rice
+525,Sandy,1.72,Andhra Pradesh,16,Winter,Rice
+288,Clayey,18.96,Rajasthan,35,Summer,Bajra
+157,Alluvial,9.15,Andhra Pradesh,24,Winter,Rice
+420,Clayey,4.52,Uttar Pradesh,43,Monsoon,Wheat
+525,Clayey,16.73,Uttar Pradesh,33,Monsoon,Sugarcane
+617,Alluvial,4.16,Uttar Pradesh,17,Monsoon,Potatoes
+232,Sandy,16.25,Rajasthan,33,Winter,Pulses
+940,Desert,16.94,Rajasthan,27,Monsoon,Pulses
+405,Loamy,15.16,Uttar Pradesh,31,Monsoon,Sugarcane
+414,Sandy,2.89,Rajasthan,19,Summer,Pulses
+301,Loamy,16.07,Uttar Pradesh,10,Monsoon,Sugarcane
+351,Alluvial,19.59,Karnataka,24,Winter,Maize
+556,Sandy,13.95,Andhra Pradesh,26,Summer,Groundnut
+477,Peaty,13.77,Kerala,42,Winter,Rice
+693,Mixed,12.75,Madhya Pradesh,35,Winter,Soybean
+431,Desert,13.07,Rajasthan,36,Summer,Mustard
+703,Loamy,7.62,Uttar Pradesh,14,Monsoon,Rice
+577,Red,15.43,Karnataka,35,Summer,Rice
+813,Clayey,3.95,Rajasthan,42,Summer,Mustard
+655,Mixed,15.59,Madhya Pradesh,22,Winter,Rice
+926,Loamy,6.9,Rajasthan,19,Summer,Mustard
+379,Peaty,18.48,Kerala,25,Monsoon,Spices
+507,Clayey,18.75,Uttar Pradesh,35,Monsoon,Wheat
+967,Red,1.9,Karnataka,38,Monsoon,Sugarcane
+396,Clayey,17.66,Rajasthan,16,Winter,Pulses
+446,Loamy,16.94,Rajasthan,31,Summer,Mustard
+889,Desert,1.43,Rajasthan,23,Winter,Barley
+977,Sandy,19.46,Kerala,40,Monsoon,Rubber
+293,Black,8.79,Karnataka,22,Monsoon,Ragi
+177,Clayey,11.84,Rajasthan,21,Monsoon,Barley
+649,Alluvial,3.3,Madhya Pradesh,24,Summer,Pulses
+599,Alluvial,12.85,Madhya Pradesh,25,Winter,Pulses
+233,Peaty,14.57,Kerala,24,Summer,Rubber
+705,Black,11.91,Karnataka,36,Winter,Rice
+806,Peaty,12.53,Kerala,41,Monsoon,Rubber
+365,Alluvial,5.78,Andhra Pradesh,30,Summer,Groundnut
+218,Alluvial,7.29,Karnataka,29,Summer,Rice
+493,Black,11.92,Madhya Pradesh,27,Monsoon,Rice
+548,Black,5.78,Madhya Pradesh,32,Summer,Wheat
+343,Peaty,16.43,Kerala,26,Monsoon,Spices
+734,Alluvial,10.85,Karnataka,38,Monsoon,Maize
+596,Sandy,9.39,Rajasthan,19,Monsoon,Barley
+391,Red,12.6,Karnataka,36,Monsoon,Maize
+295,Black,13.5,Madhya Pradesh,29,Winter,Pulses
+711,Black,18.24,Karnataka,42,Winter,Rice
+720,Desert,5.09,Rajasthan,39,Monsoon,Mustard
+373,Red,6.84,Madhya Pradesh,43,Monsoon,Pulses
+192,Loamy,3.83,Uttar Pradesh,15,Winter,Sugarcane
+731,Clayey,17.38,Rajasthan,40,Summer,Bajra
+631,Alluvial,11.43,Karnataka,22,Monsoon,Sugarcane
+654,Red,11.49,Andhra Pradesh,36,Winter,Millets
+929,Alluvial,11.54,Karnataka,15,Winter,Sugarcane
+565,Clayey,12.84,Uttar Pradesh,34,Monsoon,Rice
+200,Red,8.93,Madhya Pradesh,43,Summer,Pulses
+150,Red,19.38,Andhra Pradesh,17,Summer,Cotton
+795,Alluvial,6.27,Uttar Pradesh,31,Monsoon,Wheat
+801,Alluvial,16.1,Uttar Pradesh,24,Summer,Sugarcane
+501,Laterite,17.81,Karnataka,33,Winter,Maize
+421,Mixed,12.27,Madhya Pradesh,33,Monsoon,Soybean
+830,Clayey,14.45,Rajasthan,21,Monsoon,Mustard
+657,Laterite,5.76,Karnataka,45,Winter,Ragi
+836,Laterite,14.01,Kerala,34,Winter,Rubber
+945,Clayey,13.84,Uttar Pradesh,44,Summer,Rice
+726,Alluvial,9.29,Madhya Pradesh,23,Summer,Soybean
+819,Desert,18.5,Rajasthan,36,Winter,Bajra
+123,Loamy,18.39,Rajasthan,27,Winter,Pulses
+472,Alluvial,15.8,Uttar Pradesh,18,Winter,Rice
+513,Mixed,3.56,Madhya Pradesh,33,Summer,Pulses
+839,Alluvial,14.47,Madhya Pradesh,39,Summer,Rice
+767,Red,17.22,Karnataka,19,Monsoon,Sugarcane
+507,Loamy,15.28,Rajasthan,32,Winter,Barley
+895,Clayey,15.27,Uttar Pradesh,31,Winter,Sugarcane
+120,Alluvial,10.75,Karnataka,21,Summer,Maize
+199,Laterite,7.19,Kerala,23,Monsoon,Rice
+759,Laterite,3.1,Karnataka,22,Winter,Maize
+780,Loamy,15.21,Uttar Pradesh,25,Summer,Potatoes
+140,Alluvial,7.24,Karnataka,24,Summer,Sugarcane
+855,Clayey,1.88,Uttar Pradesh,28,Monsoon,Potatoes
+899,Red,18.98,Andhra Pradesh,21,Summer,Cotton
+292,Alluvial,14.1,Madhya Pradesh,20,Winter,Rice
+971,Black,8.84,Andhra Pradesh,31,Winter,Groundnut
+726,Peaty,15.98,Kerala,19,Winter,Spices
+239,Loamy,14.97,Rajasthan,33,Winter,Bajra
+725,Sandy,2.96,Andhra Pradesh,22,Winter,Groundnut
+499,Alluvial,16.35,Andhra Pradesh,25,Monsoon,Millets
+960,Black,1.96,Karnataka,44,Summer,Sugarcane
+223,Sandy,4.46,Rajasthan,19,Monsoon,Mustard
+145,Laterite,14.21,Kerala,18,Summer,Rice
+196,Black,5.52,Madhya Pradesh,26,Winter,Wheat
+946,Red,4.92,Andhra Pradesh,37,Summer,Millets
+342,Loamy,14.36,Uttar Pradesh,16,Winter,Rice
+927,Clayey,16.37,Rajasthan,36,Winter,Mustard
+592,Alluvial,2.11,Madhya Pradesh,44,Monsoon,Rice
+649,Red,16.52,Andhra Pradesh,37,Summer,Cotton
+460,Laterite,4.03,Karnataka,28,Summer,Ragi
+850,Peaty,18.01,Kerala,17,Summer,Rice
+565,Loamy,6.36,Rajasthan,17,Winter,Bajra
+396,Alluvial,13.22,Uttar Pradesh,10,Summer,Sugarcane
+467,Sandy,7.93,Kerala,24,Summer,Rubber
+477,Alluvial,9.51,Karnataka,10,Winter,Ragi
+257,Alluvial,8.48,Madhya Pradesh,18,Summer,Soybean
+969,Black,1.2,Madhya Pradesh,13,Summer,Pulses
+591,Loamy,4.04,Uttar Pradesh,28,Winter,Sugarcane
+983,Sandy,8.77,Rajasthan,44,Winter,Barley
+968,Alluvial,3.24,Madhya Pradesh,26,Monsoon,Wheat
+137,Laterite,3.03,Kerala,40,Monsoon,Coconut
+966,Sandy,1.27,Andhra Pradesh,41,Monsoon,Groundnut
+719,Sandy,7.04,Andhra Pradesh,19,Monsoon,Rice
+531,Laterite,7.87,Kerala,43,Monsoon,Rubber
+770,Clayey,19.99,Uttar Pradesh,32,Summer,Rice
+396,Clayey,9.41,Rajasthan,14,Monsoon,Pulses
+179,Loamy,1.83,Uttar Pradesh,44,Summer,Wheat
+152,Laterite,14.94,Kerala,12,Summer,Rubber
+627,Alluvial,17.19,Uttar Pradesh,27,Monsoon,Sugarcane
+123,Desert,6.28,Rajasthan,41,Monsoon,Barley
+288,Sandy,9.67,Rajasthan,33,Summer,Bajra
+445,Desert,9.38,Rajasthan,37,Winter,Bajra
+465,Sandy,16.12,Andhra Pradesh,34,Summer,Rice
+799,Red,10.88,Madhya Pradesh,13,Winter,Wheat
+988,Alluvial,8.45,Madhya Pradesh,32,Summer,Rice
+238,Alluvial,13.94,Madhya Pradesh,36,Summer,Wheat
+741,Laterite,19.73,Kerala,16,Summer,Rice
+325,Clayey,1.6,Uttar Pradesh,25,Winter,Potatoes
+695,Sandy,17.13,Andhra Pradesh,28,Winter,Cotton
+860,Black,8.35,Andhra Pradesh,15,Summer,Groundnut
+963,Alluvial,9.01,Madhya Pradesh,18,Monsoon,Rice
+613,Peaty,3.85,Kerala,35,Monsoon,Rice
+852,Sandy,17.3,Rajasthan,25,Summer,Bajra
+288,Clayey,18.96,Rajasthan,35,Summer,Bajra
+756,Loamy,15.41,Rajasthan,31,Winter,Bajra
+533,Loamy,9.82,Rajasthan,38,Winter,Bajra
+465,Loamy,18.47,Rajasthan,42,Winter,Bajra
+731,Clayey,17.38,Rajasthan,40,Summer,Bajra
+852,Sandy,17.3,Rajasthan,25,Summer,Bajra
+445,Desert,9.38,Rajasthan,37,Winter,Bajra
+109,Loamy,2.42,Rajasthan,17,Winter,Bajra
+239,Loamy,14.97,Rajasthan,33,Winter,Bajra
+533,Loamy,9.82,Rajasthan,38,Winter,Bajra
+533,Loamy,9.82,Rajasthan,38,Winter,Bajra
+565,Loamy,6.36,Rajasthan,17,Winter,Bajra
+731,Clayey,17.38,Rajasthan,40,Summer,Bajra
+282,Desert,13.57,Rajasthan,14,Summer,Bajra
+465,Loamy,18.47,Rajasthan,42,Winter,Bajra
+565,Loamy,6.36,Rajasthan,17,Winter,Bajra
+767,Desert,3.77,Rajasthan,20,Monsoon,Bajra
+819,Desert,18.5,Rajasthan,36,Winter,Bajra
+731,Clayey,17.38,Rajasthan,40,Summer,Bajra
+384,Sandy,10.06,Rajasthan,28,Winter,Bajra
+565,Loamy,6.36,Rajasthan,17,Winter,Bajra
+619,Loamy,8.92,Rajasthan,41,Monsoon,Bajra
+424,Loamy,3.31,Rajasthan,32,Winter,Bajra
+384,Sandy,10.06,Rajasthan,28,Winter,Bajra
+731,Clayey,17.38,Rajasthan,40,Summer,Bajra
+875,Sandy,19.65,Rajasthan,35,Summer,Bajra
+619,Loamy,8.92,Rajasthan,41,Monsoon,Bajra
+445,Desert,9.38,Rajasthan,37,Winter,Bajra
+819,Desert,18.5,Rajasthan,36,Winter,Bajra
+619,Loamy,8.92,Rajasthan,41,Monsoon,Bajra
+288,Sandy,9.67,Rajasthan,33,Summer,Bajra
+773,Sandy,12.08,Rajasthan,29,Winter,Bajra
+939,Loamy,16.38,Rajasthan,44,Monsoon,Bajra
+502,Clayey,17.6,Rajasthan,45,Monsoon,Bajra
+756,Loamy,15.41,Rajasthan,31,Winter,Bajra
+756,Loamy,15.41,Rajasthan,31,Winter,Bajra
+109,Loamy,2.42,Rajasthan,17,Winter,Bajra
+619,Loamy,8.92,Rajasthan,41,Monsoon,Bajra
+239,Loamy,14.97,Rajasthan,33,Winter,Bajra
+288,Clayey,18.96,Rajasthan,35,Summer,Bajra
+288,Sandy,9.67,Rajasthan,33,Summer,Bajra
+767,Desert,3.77,Rajasthan,20,Monsoon,Bajra
+526,Sandy,6.27,Rajasthan,10,Summer,Bajra
+109,Loamy,2.42,Rajasthan,17,Winter,Bajra
+852,Sandy,17.3,Rajasthan,25,Summer,Bajra
+731,Clayey,17.38,Rajasthan,40,Summer,Bajra
+923,Desert,6.63,Rajasthan,39,Monsoon,Bajra
+852,Sandy,17.3,Rajasthan,25,Summer,Bajra
+804,Sandy,18.69,Rajasthan,13,Monsoon,Bajra
+282,Desert,13.57,Rajasthan,14,Summer,Bajra
+288,Sandy,9.67,Rajasthan,33,Summer,Bajra
+492,Sandy,0.74,Rajasthan,20,Summer,Bajra
+804,Sandy,18.69,Rajasthan,13,Monsoon,Bajra
+445,Desert,9.38,Rajasthan,37,Winter,Bajra
+923,Desert,6.63,Rajasthan,39,Monsoon,Bajra
+445,Desert,9.38,Rajasthan,37,Winter,Bajra
+731,Clayey,17.38,Rajasthan,40,Summer,Bajra
+384,Sandy,10.06,Rajasthan,28,Winter,Bajra
+288,Clayey,18.96,Rajasthan,35,Summer,Bajra
+756,Loamy,15.41,Rajasthan,31,Winter,Bajra
+852,Sandy,17.3,Rajasthan,25,Summer,Bajra
+619,Loamy,8.92,Rajasthan,41,Monsoon,Bajra
+465,Loamy,18.47,Rajasthan,42,Winter,Bajra
+756,Loamy,15.41,Rajasthan,31,Winter,Bajra
+767,Desert,3.77,Rajasthan,20,Monsoon,Bajra
+492,Sandy,0.74,Rajasthan,20,Summer,Bajra
+773,Sandy,12.08,Rajasthan,29,Winter,Bajra
+282,Desert,13.57,Rajasthan,14,Summer,Bajra
+804,Sandy,18.69,Rajasthan,13,Monsoon,Bajra
+465,Loamy,18.47,Rajasthan,42,Winter,Bajra
+282,Desert,13.57,Rajasthan,14,Summer,Bajra
+384,Sandy,10.06,Rajasthan,28,Winter,Bajra
+424,Loamy,3.31,Rajasthan,32,Winter,Bajra
+819,Desert,18.5,Rajasthan,36,Winter,Bajra
+939,Loamy,16.38,Rajasthan,44,Monsoon,Bajra
+282,Desert,13.57,Rajasthan,14,Summer,Bajra
+819,Desert,18.5,Rajasthan,36,Winter,Bajra
+804,Sandy,18.69,Rajasthan,13,Monsoon,Bajra
+445,Desert,9.38,Rajasthan,37,Winter,Bajra
+619,Loamy,8.92,Rajasthan,41,Monsoon,Bajra
+384,Sandy,10.06,Rajasthan,28,Winter,Bajra
+939,Loamy,16.38,Rajasthan,44,Monsoon,Bajra
+282,Desert,13.57,Rajasthan,14,Summer,Bajra
+492,Sandy,0.74,Rajasthan,20,Summer,Bajra
+502,Clayey,17.6,Rajasthan,45,Monsoon,Bajra
+756,Loamy,15.41,Rajasthan,31,Winter,Bajra
+465,Loamy,18.47,Rajasthan,42,Winter,Bajra
+123,Desert,6.28,Rajasthan,41,Monsoon,Barley
+830,Desert,1.85,Rajasthan,17,Winter,Barley
+507,Loamy,15.28,Rajasthan,32,Winter,Barley
+889,Desert,1.43,Rajasthan,23,Winter,Barley
+123,Desert,6.28,Rajasthan,41,Monsoon,Barley
+408,Loamy,8.78,Rajasthan,25,Summer,Barley
+558,Sandy,12.78,Rajasthan,35,Winter,Barley
+983,Sandy,8.77,Rajasthan,44,Winter,Barley
+920,Sandy,10.47,Rajasthan,13,Winter,Barley
+558,Sandy,12.78,Rajasthan,35,Winter,Barley
+408,Loamy,8.78,Rajasthan,25,Summer,Barley
+177,Clayey,11.84,Rajasthan,21,Monsoon,Barley
+889,Desert,1.43,Rajasthan,23,Winter,Barley
+507,Loamy,15.28,Rajasthan,32,Winter,Barley
+507,Loamy,15.28,Rajasthan,32,Winter,Barley
+507,Loamy,15.28,Rajasthan,32,Winter,Barley
+983,Sandy,8.77,Rajasthan,44,Winter,Barley
+889,Desert,1.43,Rajasthan,23,Winter,Barley
+983,Sandy,8.77,Rajasthan,44,Winter,Barley
+983,Sandy,8.77,Rajasthan,44,Winter,Barley
+987,Desert,17.56,Rajasthan,38,Monsoon,Barley
+889,Desert,1.43,Rajasthan,23,Winter,Barley
+830,Desert,1.85,Rajasthan,17,Winter,Barley
+889,Desert,1.43,Rajasthan,23,Winter,Barley
+408,Loamy,8.78,Rajasthan,25,Summer,Barley
+987,Desert,17.56,Rajasthan,38,Monsoon,Barley
+507,Loamy,15.28,Rajasthan,32,Winter,Barley
+408,Loamy,8.78,Rajasthan,25,Summer,Barley
+408,Loamy,8.78,Rajasthan,25,Summer,Barley
+596,Sandy,9.39,Rajasthan,19,Monsoon,Barley
+836,Loamy,19.18,Rajasthan,38,Summer,Barley
+987,Desert,17.56,Rajasthan,38,Monsoon,Barley
+408,Loamy,8.78,Rajasthan,25,Summer,Barley
+836,Loamy,19.18,Rajasthan,38,Summer,Barley
+836,Loamy,19.18,Rajasthan,38,Summer,Barley
+987,Desert,17.56,Rajasthan,38,Monsoon,Barley
+596,Sandy,9.39,Rajasthan,19,Monsoon,Barley
+558,Sandy,12.78,Rajasthan,35,Winter,Barley
+177,Clayey,11.84,Rajasthan,21,Monsoon,Barley
+830,Desert,1.85,Rajasthan,17,Winter,Barley
+177,Clayey,11.84,Rajasthan,21,Monsoon,Barley
+889,Desert,1.43,Rajasthan,23,Winter,Barley
+507,Loamy,15.28,Rajasthan,32,Winter,Barley
+830,Desert,1.85,Rajasthan,17,Winter,Barley
+889,Desert,1.43,Rajasthan,23,Winter,Barley
+408,Loamy,8.78,Rajasthan,25,Summer,Barley
+507,Loamy,15.28,Rajasthan,32,Winter,Barley
+920,Sandy,10.47,Rajasthan,13,Winter,Barley
+987,Desert,17.56,Rajasthan,38,Monsoon,Barley
+830,Desert,1.85,Rajasthan,17,Winter,Barley
+830,Desert,1.85,Rajasthan,17,Winter,Barley
+123,Desert,6.28,Rajasthan,41,Monsoon,Barley
+408,Loamy,8.78,Rajasthan,25,Summer,Barley
+558,Sandy,12.78,Rajasthan,35,Winter,Barley
+836,Loamy,19.18,Rajasthan,38,Summer,Barley
+507,Loamy,15.28,Rajasthan,32,Winter,Barley
+408,Loamy,8.78,Rajasthan,25,Summer,Barley
+816,Desert,3.97,Rajasthan,42,Monsoon,Barley
+596,Sandy,9.39,Rajasthan,19,Monsoon,Barley
+836,Loamy,19.18,Rajasthan,38,Summer,Barley
+987,Desert,17.56,Rajasthan,38,Monsoon,Barley
+836,Loamy,19.18,Rajasthan,38,Summer,Barley
+558,Sandy,12.78,Rajasthan,35,Winter,Barley
+123,Desert,6.28,Rajasthan,41,Monsoon,Barley
+836,Loamy,19.18,Rajasthan,38,Summer,Barley
+987,Desert,17.56,Rajasthan,38,Monsoon,Barley
+558,Sandy,12.78,Rajasthan,35,Winter,Barley
+177,Clayey,11.84,Rajasthan,21,Monsoon,Barley
+830,Desert,1.85,Rajasthan,17,Winter,Barley
+123,Desert,6.28,Rajasthan,41,Monsoon,Barley
+830,Desert,1.85,Rajasthan,17,Winter,Barley
+596,Sandy,9.39,Rajasthan,19,Monsoon,Barley
+889,Desert,1.43,Rajasthan,23,Winter,Barley
+177,Clayey,11.84,Rajasthan,21,Monsoon,Barley
+177,Clayey,11.84,Rajasthan,21,Monsoon,Barley
+507,Loamy,15.28,Rajasthan,32,Winter,Barley
+983,Sandy,8.77,Rajasthan,44,Winter,Barley
+836,Loamy,19.18,Rajasthan,38,Summer,Barley
+830,Desert,1.85,Rajasthan,17,Winter,Barley
+987,Desert,17.56,Rajasthan,38,Monsoon,Barley
+265,Clayey,18.16,Rajasthan,13,Monsoon,Barley
+983,Sandy,8.77,Rajasthan,44,Winter,Barley
+265,Clayey,18.16,Rajasthan,13,Monsoon,Barley
+123,Desert,6.28,Rajasthan,41,Monsoon,Barley
+558,Sandy,12.78,Rajasthan,35,Winter,Barley
+830,Desert,1.85,Rajasthan,17,Winter,Barley
+830,Desert,1.85,Rajasthan,17,Winter,Barley
+983,Sandy,8.77,Rajasthan,44,Winter,Barley
+596,Sandy,9.39,Rajasthan,19,Monsoon,Barley
+983,Sandy,8.77,Rajasthan,44,Winter,Barley
+265,Clayey,18.16,Rajasthan,13,Monsoon,Barley
+983,Sandy,8.77,Rajasthan,44,Winter,Barley
+830,Desert,1.85,Rajasthan,17,Winter,Barley
+596,Sandy,9.39,Rajasthan,19,Monsoon,Barley
+836,Loamy,19.18,Rajasthan,38,Summer,Barley
+816,Desert,3.97,Rajasthan,42,Monsoon,Barley
+507,Loamy,15.28,Rajasthan,32,Winter,Barley
+920,Sandy,10.47,Rajasthan,13,Winter,Barley
+177,Clayey,11.84,Rajasthan,21,Monsoon,Barley
+983,Sandy,8.77,Rajasthan,44,Winter,Barley
+137,Laterite,3.03,Kerala,40,Monsoon,Coconut
+366,Alluvial,5.64,Kerala,15,Winter,Coconut
+372,Alluvial,18.09,Kerala,26,Winter,Coconut
+854,Laterite,3.89,Kerala,33,Winter,Coconut
+362,Sandy,11.02,Kerala,16,Monsoon,Coconut
+137,Laterite,3.03,Kerala,40,Monsoon,Coconut
+362,Sandy,11.02,Kerala,16,Monsoon,Coconut
+265,Peaty,16.23,Kerala,39,Summer,Coconut
+265,Peaty,16.23,Kerala,39,Summer,Coconut
+137,Laterite,3.03,Kerala,40,Monsoon,Coconut
+137,Laterite,3.03,Kerala,40,Monsoon,Coconut
+854,Laterite,3.89,Kerala,33,Winter,Coconut
+137,Laterite,3.03,Kerala,40,Monsoon,Coconut
+491,Sandy,3.98,Kerala,27,Summer,Coconut
+362,Sandy,11.02,Kerala,16,Monsoon,Coconut
+372,Alluvial,18.09,Kerala,26,Winter,Coconut
+572,Sandy,13.95,Kerala,27,Summer,Coconut
+137,Laterite,3.03,Kerala,40,Monsoon,Coconut
+366,Alluvial,5.64,Kerala,15,Winter,Coconut
+265,Peaty,16.23,Kerala,39,Summer,Coconut
+491,Sandy,3.98,Kerala,27,Summer,Coconut
+572,Sandy,13.95,Kerala,27,Summer,Coconut
+372,Alluvial,18.09,Kerala,26,Winter,Coconut
+572,Sandy,13.95,Kerala,27,Summer,Coconut
+137,Laterite,3.03,Kerala,40,Monsoon,Coconut
+854,Laterite,3.89,Kerala,33,Winter,Coconut
+265,Peaty,16.23,Kerala,39,Summer,Coconut
+265,Peaty,16.23,Kerala,39,Summer,Coconut
+854,Laterite,3.89,Kerala,33,Winter,Coconut
+362,Sandy,11.02,Kerala,16,Monsoon,Coconut
+659,Alluvial,11.01,Kerala,23,Winter,Coconut
+491,Sandy,3.98,Kerala,27,Summer,Coconut
+265,Peaty,16.23,Kerala,39,Summer,Coconut
+366,Alluvial,5.64,Kerala,15,Winter,Coconut
+265,Peaty,16.23,Kerala,39,Summer,Coconut
+572,Sandy,13.95,Kerala,27,Summer,Coconut
+265,Peaty,16.23,Kerala,39,Summer,Coconut
+265,Peaty,16.23,Kerala,39,Summer,Coconut
+659,Alluvial,11.01,Kerala,23,Winter,Coconut
+659,Alluvial,11.01,Kerala,23,Winter,Coconut
+372,Alluvial,18.09,Kerala,26,Winter,Coconut
+362,Sandy,11.02,Kerala,16,Monsoon,Coconut
+366,Alluvial,5.64,Kerala,15,Winter,Coconut
+265,Peaty,16.23,Kerala,39,Summer,Coconut
+265,Peaty,16.23,Kerala,39,Summer,Coconut
+491,Sandy,3.98,Kerala,27,Summer,Coconut
+659,Alluvial,11.01,Kerala,23,Winter,Coconut
+366,Alluvial,5.64,Kerala,15,Winter,Coconut
+372,Alluvial,18.09,Kerala,26,Winter,Coconut
+362,Sandy,11.02,Kerala,16,Monsoon,Coconut
+854,Laterite,3.89,Kerala,33,Winter,Coconut
+362,Sandy,11.02,Kerala,16,Monsoon,Coconut
+572,Sandy,13.95,Kerala,27,Summer,Coconut
+265,Peaty,16.23,Kerala,39,Summer,Coconut
+372,Alluvial,18.09,Kerala,26,Winter,Coconut
+572,Sandy,13.95,Kerala,27,Summer,Coconut
+366,Alluvial,5.64,Kerala,15,Winter,Coconut
+854,Laterite,3.89,Kerala,33,Winter,Coconut
+659,Alluvial,11.01,Kerala,23,Winter,Coconut
+372,Alluvial,18.09,Kerala,26,Winter,Coconut
+372,Alluvial,18.09,Kerala,26,Winter,Coconut
+265,Peaty,16.23,Kerala,39,Summer,Coconut
+137,Laterite,3.03,Kerala,40,Monsoon,Coconut
+372,Alluvial,18.09,Kerala,26,Winter,Coconut
+491,Sandy,3.98,Kerala,27,Summer,Coconut
+854,Laterite,3.89,Kerala,33,Winter,Coconut
+854,Laterite,3.89,Kerala,33,Winter,Coconut
+491,Sandy,3.98,Kerala,27,Summer,Coconut
+491,Sandy,3.98,Kerala,27,Summer,Coconut
+491,Sandy,3.98,Kerala,27,Summer,Coconut
+854,Laterite,3.89,Kerala,33,Winter,Coconut
+362,Sandy,11.02,Kerala,16,Monsoon,Coconut
+854,Laterite,3.89,Kerala,33,Winter,Coconut
+137,Laterite,3.03,Kerala,40,Monsoon,Coconut
+265,Peaty,16.23,Kerala,39,Summer,Coconut
+572,Sandy,13.95,Kerala,27,Summer,Coconut
+362,Sandy,11.02,Kerala,16,Monsoon,Coconut
+659,Alluvial,11.01,Kerala,23,Winter,Coconut
+572,Sandy,13.95,Kerala,27,Summer,Coconut
+265,Peaty,16.23,Kerala,39,Summer,Coconut
+137,Laterite,3.03,Kerala,40,Monsoon,Coconut
+137,Laterite,3.03,Kerala,40,Monsoon,Coconut
+659,Alluvial,11.01,Kerala,23,Winter,Coconut
+362,Sandy,11.02,Kerala,16,Monsoon,Coconut
+491,Sandy,3.98,Kerala,27,Summer,Coconut
+362,Sandy,11.02,Kerala,16,Monsoon,Coconut
+137,Laterite,3.03,Kerala,40,Monsoon,Coconut
+854,Laterite,3.89,Kerala,33,Winter,Coconut
+265,Peaty,16.23,Kerala,39,Summer,Coconut
+659,Alluvial,11.01,Kerala,23,Winter,Coconut
+265,Peaty,16.23,Kerala,39,Summer,Coconut
+366,Alluvial,5.64,Kerala,15,Winter,Coconut
+366,Alluvial,5.64,Kerala,15,Winter,Coconut
+362,Sandy,11.02,Kerala,16,Monsoon,Coconut
+137,Laterite,3.03,Kerala,40,Monsoon,Coconut
+137,Laterite,3.03,Kerala,40,Monsoon,Coconut
+491,Sandy,3.98,Kerala,27,Summer,Coconut
+491,Sandy,3.98,Kerala,27,Summer,Coconut
+491,Sandy,3.98,Kerala,27,Summer,Coconut
+854,Laterite,3.89,Kerala,33,Winter,Coconut
+572,Sandy,13.95,Kerala,27,Summer,Coconut
+372,Alluvial,18.09,Kerala,26,Winter,Coconut
+572,Sandy,13.95,Kerala,27,Summer,Coconut
+265,Peaty,16.23,Kerala,39,Summer,Coconut
+572,Sandy,13.95,Kerala,27,Summer,Coconut
+550,Black,8.84,Andhra Pradesh,26,Summer,Cotton
+891,Black,10.77,Andhra Pradesh,41,Winter,Cotton
+785,Sandy,9.98,Andhra Pradesh,36,Monsoon,Cotton
+395,Black,8.77,Andhra Pradesh,16,Winter,Cotton
+550,Black,8.84,Andhra Pradesh,26,Summer,Cotton
+937,Alluvial,1.18,Andhra Pradesh,25,Summer,Cotton
+395,Black,8.77,Andhra Pradesh,16,Winter,Cotton
+550,Black,8.84,Andhra Pradesh,26,Summer,Cotton
+649,Red,16.52,Andhra Pradesh,37,Summer,Cotton
+988,Red,3.77,Andhra Pradesh,22,Winter,Cotton
+649,Red,16.52,Andhra Pradesh,37,Summer,Cotton
+692,Black,10.76,Andhra Pradesh,34,Winter,Cotton
+988,Red,3.77,Andhra Pradesh,22,Winter,Cotton
+692,Black,10.76,Andhra Pradesh,34,Winter,Cotton
+899,Red,18.98,Andhra Pradesh,21,Summer,Cotton
+319,Alluvial,10.74,Andhra Pradesh,37,Monsoon,Cotton
+649,Red,16.52,Andhra Pradesh,37,Summer,Cotton
+319,Alluvial,10.74,Andhra Pradesh,37,Monsoon,Cotton
+319,Alluvial,10.74,Andhra Pradesh,37,Monsoon,Cotton
+937,Alluvial,1.18,Andhra Pradesh,25,Summer,Cotton
+988,Red,3.77,Andhra Pradesh,22,Winter,Cotton
+899,Red,18.98,Andhra Pradesh,21,Summer,Cotton
+692,Black,10.76,Andhra Pradesh,34,Winter,Cotton
+550,Black,8.84,Andhra Pradesh,26,Summer,Cotton
+785,Sandy,9.98,Andhra Pradesh,36,Monsoon,Cotton
+550,Black,8.84,Andhra Pradesh,26,Summer,Cotton
+785,Sandy,9.98,Andhra Pradesh,36,Monsoon,Cotton
+649,Red,16.52,Andhra Pradesh,37,Summer,Cotton
+770,Red,3.2,Andhra Pradesh,31,Monsoon,Cotton
+550,Black,8.84,Andhra Pradesh,26,Summer,Cotton
+395,Black,8.77,Andhra Pradesh,16,Winter,Cotton
+395,Black,8.77,Andhra Pradesh,16,Winter,Cotton
+627,Black,8.98,Andhra Pradesh,12,Winter,Cotton
+988,Red,3.77,Andhra Pradesh,22,Winter,Cotton
+785,Sandy,9.98,Andhra Pradesh,36,Monsoon,Cotton
+785,Sandy,9.98,Andhra Pradesh,36,Monsoon,Cotton
+150,Red,19.38,Andhra Pradesh,17,Summer,Cotton
+891,Black,10.77,Andhra Pradesh,41,Winter,Cotton
+988,Red,3.77,Andhra Pradesh,22,Winter,Cotton
+937,Alluvial,1.18,Andhra Pradesh,25,Summer,Cotton
+627,Black,8.98,Andhra Pradesh,12,Winter,Cotton
+937,Alluvial,1.18,Andhra Pradesh,25,Summer,Cotton
+649,Red,16.52,Andhra Pradesh,37,Summer,Cotton
+649,Red,16.52,Andhra Pradesh,37,Summer,Cotton
+937,Alluvial,1.18,Andhra Pradesh,25,Summer,Cotton
+937,Alluvial,1.18,Andhra Pradesh,25,Summer,Cotton
+899,Red,18.98,Andhra Pradesh,21,Summer,Cotton
+988,Red,3.77,Andhra Pradesh,22,Winter,Cotton
+937,Alluvial,1.18,Andhra Pradesh,25,Summer,Cotton
+395,Black,8.77,Andhra Pradesh,16,Winter,Cotton
+891,Black,10.77,Andhra Pradesh,41,Winter,Cotton
+891,Black,10.77,Andhra Pradesh,41,Winter,Cotton
+319,Alluvial,10.74,Andhra Pradesh,37,Monsoon,Cotton
+770,Red,3.2,Andhra Pradesh,31,Monsoon,Cotton
+649,Red,16.52,Andhra Pradesh,37,Summer,Cotton
+785,Sandy,9.98,Andhra Pradesh,36,Monsoon,Cotton
+150,Red,19.38,Andhra Pradesh,17,Summer,Cotton
+695,Sandy,17.13,Andhra Pradesh,28,Winter,Cotton
+785,Sandy,9.98,Andhra Pradesh,36,Monsoon,Cotton
+770,Red,3.2,Andhra Pradesh,31,Monsoon,Cotton
+150,Red,19.38,Andhra Pradesh,17,Summer,Cotton
+899,Red,18.98,Andhra Pradesh,21,Summer,Cotton
+988,Red,3.77,Andhra Pradesh,22,Winter,Cotton
+550,Black,8.84,Andhra Pradesh,26,Summer,Cotton
+988,Red,3.77,Andhra Pradesh,22,Winter,Cotton
+785,Sandy,9.98,Andhra Pradesh,36,Monsoon,Cotton
+785,Sandy,9.98,Andhra Pradesh,36,Monsoon,Cotton
+150,Red,19.38,Andhra Pradesh,17,Summer,Cotton
+150,Red,19.38,Andhra Pradesh,17,Summer,Cotton
+649,Red,16.52,Andhra Pradesh,37,Summer,Cotton
+899,Red,18.98,Andhra Pradesh,21,Summer,Cotton
+649,Red,16.52,Andhra Pradesh,37,Summer,Cotton
+770,Red,3.2,Andhra Pradesh,31,Monsoon,Cotton
+937,Alluvial,1.18,Andhra Pradesh,25,Summer,Cotton
+988,Red,3.77,Andhra Pradesh,22,Winter,Cotton
+150,Red,19.38,Andhra Pradesh,17,Summer,Cotton
+692,Black,10.76,Andhra Pradesh,34,Winter,Cotton
+770,Red,3.2,Andhra Pradesh,31,Monsoon,Cotton
+395,Black,8.77,Andhra Pradesh,16,Winter,Cotton
+899,Red,18.98,Andhra Pradesh,21,Summer,Cotton
+785,Sandy,9.98,Andhra Pradesh,36,Monsoon,Cotton
+649,Red,16.52,Andhra Pradesh,37,Summer,Cotton
+770,Red,3.2,Andhra Pradesh,31,Monsoon,Cotton
+695,Sandy,17.13,Andhra Pradesh,28,Winter,Cotton
+988,Red,3.77,Andhra Pradesh,22,Winter,Cotton
+150,Red,19.38,Andhra Pradesh,17,Summer,Cotton
+785,Sandy,9.98,Andhra Pradesh,36,Monsoon,Cotton
+550,Black,8.84,Andhra Pradesh,26,Summer,Cotton
+695,Sandy,17.13,Andhra Pradesh,28,Winter,Cotton
+899,Red,18.98,Andhra Pradesh,21,Summer,Cotton
+770,Red,3.2,Andhra Pradesh,31,Monsoon,Cotton
+627,Black,8.98,Andhra Pradesh,12,Winter,Cotton
+785,Sandy,9.98,Andhra Pradesh,36,Monsoon,Cotton
+988,Red,3.77,Andhra Pradesh,22,Winter,Cotton
+319,Alluvial,10.74,Andhra Pradesh,37,Monsoon,Cotton
+692,Black,10.76,Andhra Pradesh,34,Winter,Cotton
+241,Black,6.86,Andhra Pradesh,40,Summer,Cotton
+695,Sandy,17.13,Andhra Pradesh,28,Winter,Cotton
+937,Alluvial,1.18,Andhra Pradesh,25,Summer,Cotton
+532,Red,3.21,Andhra Pradesh,19,Monsoon,Groundnut
+173,Sandy,14.6,Andhra Pradesh,37,Monsoon,Groundnut
+971,Black,8.84,Andhra Pradesh,31,Winter,Groundnut
+725,Sandy,2.96,Andhra Pradesh,22,Winter,Groundnut
+788,Sandy,6.36,Andhra Pradesh,23,Winter,Groundnut
+607,Red,14.35,Andhra Pradesh,17,Winter,Groundnut
+788,Sandy,6.36,Andhra Pradesh,23,Winter,Groundnut
+860,Black,8.35,Andhra Pradesh,15,Summer,Groundnut
+173,Sandy,14.6,Andhra Pradesh,37,Monsoon,Groundnut
+347,Alluvial,11.5,Andhra Pradesh,43,Summer,Groundnut
+250,Red,1.6,Andhra Pradesh,26,Winter,Groundnut
+695,Alluvial,9.68,Andhra Pradesh,30,Winter,Groundnut
+966,Sandy,1.27,Andhra Pradesh,41,Monsoon,Groundnut
+871,Sandy,5.55,Andhra Pradesh,21,Summer,Groundnut
+607,Red,14.35,Andhra Pradesh,17,Winter,Groundnut
+532,Red,3.21,Andhra Pradesh,19,Monsoon,Groundnut
+365,Alluvial,5.78,Andhra Pradesh,30,Summer,Groundnut
+871,Sandy,5.55,Andhra Pradesh,21,Summer,Groundnut
+117,Sandy,2.08,Andhra Pradesh,13,Monsoon,Groundnut
+365,Alluvial,5.78,Andhra Pradesh,30,Summer,Groundnut
+347,Alluvial,11.5,Andhra Pradesh,43,Summer,Groundnut
+173,Sandy,14.6,Andhra Pradesh,37,Monsoon,Groundnut
+971,Black,8.84,Andhra Pradesh,31,Winter,Groundnut
+966,Sandy,1.27,Andhra Pradesh,41,Monsoon,Groundnut
+971,Black,8.84,Andhra Pradesh,31,Winter,Groundnut
+556,Sandy,13.95,Andhra Pradesh,26,Summer,Groundnut
+725,Sandy,2.96,Andhra Pradesh,22,Winter,Groundnut
+788,Sandy,6.36,Andhra Pradesh,23,Winter,Groundnut
+788,Sandy,6.36,Andhra Pradesh,23,Winter,Groundnut
+860,Black,8.35,Andhra Pradesh,15,Summer,Groundnut
+607,Red,14.35,Andhra Pradesh,17,Winter,Groundnut
+665,Black,1.93,Andhra Pradesh,30,Monsoon,Groundnut
+725,Sandy,2.96,Andhra Pradesh,22,Winter,Groundnut
+695,Alluvial,9.68,Andhra Pradesh,30,Winter,Groundnut
+777,Alluvial,4.32,Andhra Pradesh,34,Monsoon,Groundnut
+347,Alluvial,11.5,Andhra Pradesh,43,Summer,Groundnut
+173,Sandy,14.6,Andhra Pradesh,37,Monsoon,Groundnut
+556,Sandy,13.95,Andhra Pradesh,26,Summer,Groundnut
+556,Sandy,13.95,Andhra Pradesh,26,Summer,Groundnut
+777,Alluvial,4.32,Andhra Pradesh,34,Monsoon,Groundnut
+871,Sandy,5.55,Andhra Pradesh,21,Summer,Groundnut
+117,Sandy,2.08,Andhra Pradesh,13,Monsoon,Groundnut
+665,Black,1.93,Andhra Pradesh,30,Monsoon,Groundnut
+365,Alluvial,5.78,Andhra Pradesh,30,Summer,Groundnut
+725,Sandy,2.96,Andhra Pradesh,22,Winter,Groundnut
+532,Red,3.21,Andhra Pradesh,19,Monsoon,Groundnut
+173,Sandy,14.6,Andhra Pradesh,37,Monsoon,Groundnut
+966,Sandy,1.27,Andhra Pradesh,41,Monsoon,Groundnut
+365,Alluvial,5.78,Andhra Pradesh,30,Summer,Groundnut
+607,Red,14.35,Andhra Pradesh,17,Winter,Groundnut
+860,Black,8.35,Andhra Pradesh,15,Summer,Groundnut
+777,Alluvial,4.32,Andhra Pradesh,34,Monsoon,Groundnut
+250,Red,1.6,Andhra Pradesh,26,Winter,Groundnut
+556,Sandy,13.95,Andhra Pradesh,26,Summer,Groundnut
+347,Alluvial,11.5,Andhra Pradesh,43,Summer,Groundnut
+347,Alluvial,11.5,Andhra Pradesh,43,Summer,Groundnut
+725,Sandy,2.96,Andhra Pradesh,22,Winter,Groundnut
+788,Sandy,6.36,Andhra Pradesh,23,Winter,Groundnut
+966,Sandy,1.27,Andhra Pradesh,41,Monsoon,Groundnut
+173,Sandy,14.6,Andhra Pradesh,37,Monsoon,Groundnut
+365,Alluvial,5.78,Andhra Pradesh,30,Summer,Groundnut
+347,Alluvial,11.5,Andhra Pradesh,43,Summer,Groundnut
+966,Sandy,1.27,Andhra Pradesh,41,Monsoon,Groundnut
+871,Sandy,5.55,Andhra Pradesh,21,Summer,Groundnut
+777,Alluvial,4.32,Andhra Pradesh,34,Monsoon,Groundnut
+532,Red,3.21,Andhra Pradesh,19,Monsoon,Groundnut
+556,Sandy,13.95,Andhra Pradesh,26,Summer,Groundnut
+966,Sandy,1.27,Andhra Pradesh,41,Monsoon,Groundnut
+777,Alluvial,4.32,Andhra Pradesh,34,Monsoon,Groundnut
+971,Black,8.84,Andhra Pradesh,31,Winter,Groundnut
+777,Alluvial,4.32,Andhra Pradesh,34,Monsoon,Groundnut
+725,Sandy,2.96,Andhra Pradesh,22,Winter,Groundnut
+860,Black,8.35,Andhra Pradesh,15,Summer,Groundnut
+971,Black,8.84,Andhra Pradesh,31,Winter,Groundnut
+777,Alluvial,4.32,Andhra Pradesh,34,Monsoon,Groundnut
+556,Sandy,13.95,Andhra Pradesh,26,Summer,Groundnut
+966,Sandy,1.27,Andhra Pradesh,41,Monsoon,Groundnut
+966,Sandy,1.27,Andhra Pradesh,41,Monsoon,Groundnut
+871,Sandy,5.55,Andhra Pradesh,21,Summer,Groundnut
+117,Sandy,2.08,Andhra Pradesh,13,Monsoon,Groundnut
+347,Alluvial,11.5,Andhra Pradesh,43,Summer,Groundnut
+777,Alluvial,4.32,Andhra Pradesh,34,Monsoon,Groundnut
+607,Red,14.35,Andhra Pradesh,17,Winter,Groundnut
+777,Alluvial,4.32,Andhra Pradesh,34,Monsoon,Groundnut
+117,Sandy,2.08,Andhra Pradesh,13,Monsoon,Groundnut
+788,Sandy,6.36,Andhra Pradesh,23,Winter,Groundnut
+607,Red,14.35,Andhra Pradesh,17,Winter,Groundnut
+347,Alluvial,11.5,Andhra Pradesh,43,Summer,Groundnut
+777,Alluvial,4.32,Andhra Pradesh,34,Monsoon,Groundnut
+365,Alluvial,5.78,Andhra Pradesh,30,Summer,Groundnut
+117,Sandy,2.08,Andhra Pradesh,13,Monsoon,Groundnut
+966,Sandy,1.27,Andhra Pradesh,41,Monsoon,Groundnut
+966,Sandy,1.27,Andhra Pradesh,41,Monsoon,Groundnut
+788,Sandy,6.36,Andhra Pradesh,23,Winter,Groundnut
+860,Black,8.35,Andhra Pradesh,15,Summer,Groundnut
+556,Sandy,13.95,Andhra Pradesh,26,Summer,Groundnut
+532,Red,3.21,Andhra Pradesh,19,Monsoon,Groundnut
+981,Red,16.72,Karnataka,14,Monsoon,Maize
+981,Red,16.72,Karnataka,14,Monsoon,Maize
+501,Laterite,17.81,Karnataka,33,Winter,Maize
+352,Black,10.35,Karnataka,19,Monsoon,Maize
+220,Laterite,11.52,Karnataka,25,Summer,Maize
+912,Black,12.35,Karnataka,21,Summer,Maize
+729,Black,16.25,Karnataka,33,Summer,Maize
+981,Red,16.72,Karnataka,14,Monsoon,Maize
+981,Red,16.72,Karnataka,14,Monsoon,Maize
+364,Red,0.56,Karnataka,37,Winter,Maize
+982,Alluvial,19.2,Karnataka,24,Winter,Maize
+352,Black,10.35,Karnataka,19,Monsoon,Maize
+912,Black,12.35,Karnataka,21,Summer,Maize
+113,Laterite,15.84,Karnataka,13,Monsoon,Maize
+912,Black,12.35,Karnataka,21,Summer,Maize
+979,Red,7.63,Karnataka,44,Summer,Maize
+976,Red,15.02,Karnataka,40,Summer,Maize
+501,Laterite,17.81,Karnataka,33,Winter,Maize
+391,Red,12.6,Karnataka,36,Monsoon,Maize
+729,Black,16.25,Karnataka,33,Summer,Maize
+734,Alluvial,10.85,Karnataka,38,Monsoon,Maize
+364,Red,0.56,Karnataka,37,Winter,Maize
+982,Alluvial,19.2,Karnataka,24,Winter,Maize
+976,Red,15.02,Karnataka,40,Summer,Maize
+501,Laterite,17.81,Karnataka,33,Winter,Maize
+971,Alluvial,19.13,Karnataka,15,Winter,Maize
+852,Alluvial,1.89,Karnataka,28,Monsoon,Maize
+346,Laterite,10.48,Karnataka,32,Summer,Maize
+759,Laterite,3.1,Karnataka,22,Winter,Maize
+391,Red,12.6,Karnataka,36,Monsoon,Maize
+113,Laterite,15.84,Karnataka,13,Monsoon,Maize
+352,Black,10.35,Karnataka,19,Monsoon,Maize
+346,Laterite,10.48,Karnataka,32,Summer,Maize
+759,Laterite,3.1,Karnataka,22,Winter,Maize
+346,Laterite,10.48,Karnataka,32,Summer,Maize
+982,Alluvial,19.2,Karnataka,24,Winter,Maize
+220,Laterite,11.52,Karnataka,25,Summer,Maize
+971,Alluvial,19.13,Karnataka,15,Winter,Maize
+729,Black,16.25,Karnataka,33,Summer,Maize
+734,Alluvial,10.85,Karnataka,38,Monsoon,Maize
+729,Black,16.25,Karnataka,33,Summer,Maize
+351,Alluvial,19.59,Karnataka,24,Winter,Maize
+346,Laterite,10.48,Karnataka,32,Summer,Maize
+391,Red,12.6,Karnataka,36,Monsoon,Maize
+734,Alluvial,10.85,Karnataka,38,Monsoon,Maize
+852,Alluvial,1.89,Karnataka,28,Monsoon,Maize
+220,Laterite,11.52,Karnataka,25,Summer,Maize
+912,Black,12.35,Karnataka,21,Summer,Maize
+734,Alluvial,10.85,Karnataka,38,Monsoon,Maize
+113,Laterite,15.84,Karnataka,13,Monsoon,Maize
+729,Black,16.25,Karnataka,33,Summer,Maize
+971,Alluvial,19.13,Karnataka,15,Winter,Maize
+734,Alluvial,10.85,Karnataka,38,Monsoon,Maize
+734,Alluvial,10.85,Karnataka,38,Monsoon,Maize
+120,Alluvial,10.75,Karnataka,21,Summer,Maize
+351,Alluvial,19.59,Karnataka,24,Winter,Maize
+113,Laterite,15.84,Karnataka,13,Monsoon,Maize
+501,Laterite,17.81,Karnataka,33,Winter,Maize
+734,Alluvial,10.85,Karnataka,38,Monsoon,Maize
+346,Laterite,10.48,Karnataka,32,Summer,Maize
+912,Black,12.35,Karnataka,21,Summer,Maize
+971,Alluvial,19.13,Karnataka,15,Winter,Maize
+501,Laterite,17.81,Karnataka,33,Winter,Maize
+912,Black,12.35,Karnataka,21,Summer,Maize
+971,Alluvial,19.13,Karnataka,15,Winter,Maize
+852,Alluvial,1.89,Karnataka,28,Monsoon,Maize
+979,Red,7.63,Karnataka,44,Summer,Maize
+120,Alluvial,10.75,Karnataka,21,Summer,Maize
+501,Laterite,17.81,Karnataka,33,Winter,Maize
+771,Black,12.25,Karnataka,35,Summer,Maize
+351,Alluvial,19.59,Karnataka,24,Winter,Maize
+759,Laterite,3.1,Karnataka,22,Winter,Maize
+220,Laterite,11.52,Karnataka,25,Summer,Maize
+729,Black,16.25,Karnataka,33,Summer,Maize
+912,Black,12.35,Karnataka,21,Summer,Maize
+120,Alluvial,10.75,Karnataka,21,Summer,Maize
+759,Laterite,3.1,Karnataka,22,Winter,Maize
+346,Laterite,10.48,Karnataka,32,Summer,Maize
+759,Laterite,3.1,Karnataka,22,Winter,Maize
+351,Alluvial,19.59,Karnataka,24,Winter,Maize
+852,Alluvial,1.89,Karnataka,28,Monsoon,Maize
+113,Laterite,15.84,Karnataka,13,Monsoon,Maize
+759,Laterite,3.1,Karnataka,22,Winter,Maize
+982,Alluvial,19.2,Karnataka,24,Winter,Maize
+852,Alluvial,1.89,Karnataka,28,Monsoon,Maize
+979,Red,7.63,Karnataka,44,Summer,Maize
+220,Laterite,11.52,Karnataka,25,Summer,Maize
+729,Black,16.25,Karnataka,33,Summer,Maize
+352,Black,10.35,Karnataka,19,Monsoon,Maize
+352,Black,10.35,Karnataka,19,Monsoon,Maize
+391,Red,12.6,Karnataka,36,Monsoon,Maize
+771,Black,12.25,Karnataka,35,Summer,Maize
+912,Black,12.35,Karnataka,21,Summer,Maize
+778,Black,0.67,Andhra Pradesh,12,Monsoon,Millets
+555,Red,12.3,Andhra Pradesh,23,Winter,Millets
+674,Black,9.01,Andhra Pradesh,27,Summer,Millets
+568,Black,3.55,Andhra Pradesh,22,Summer,Millets
+417,Alluvial,15.59,Andhra Pradesh,32,Winter,Millets
+481,Sandy,2.96,Andhra Pradesh,15,Summer,Millets
+448,Red,18.0,Andhra Pradesh,14,Summer,Millets
+786,Black,14.98,Andhra Pradesh,39,Summer,Millets
+516,Sandy,16.89,Andhra Pradesh,12,Winter,Millets
+555,Red,12.3,Andhra Pradesh,23,Winter,Millets
+778,Black,0.67,Andhra Pradesh,12,Monsoon,Millets
+314,Red,16.28,Andhra Pradesh,44,Summer,Millets
+226,Alluvial,11.94,Andhra Pradesh,38,Winter,Millets
+563,Red,4.32,Andhra Pradesh,36,Winter,Millets
+563,Red,4.32,Andhra Pradesh,36,Winter,Millets
+417,Alluvial,15.59,Andhra Pradesh,32,Winter,Millets
+714,Alluvial,6.41,Andhra Pradesh,15,Monsoon,Millets
+516,Sandy,16.89,Andhra Pradesh,12,Winter,Millets
+374,Alluvial,1.99,Andhra Pradesh,19,Summer,Millets
+786,Black,14.98,Andhra Pradesh,39,Summer,Millets
+234,Sandy,12.22,Andhra Pradesh,45,Summer,Millets
+654,Red,11.49,Andhra Pradesh,36,Winter,Millets
+271,Red,3.55,Andhra Pradesh,43,Monsoon,Millets
+568,Black,3.55,Andhra Pradesh,22,Summer,Millets
+481,Sandy,2.96,Andhra Pradesh,15,Summer,Millets
+786,Black,14.98,Andhra Pradesh,39,Summer,Millets
+161,Black,13.93,Andhra Pradesh,29,Monsoon,Millets
+161,Black,13.93,Andhra Pradesh,29,Monsoon,Millets
+417,Alluvial,15.59,Andhra Pradesh,32,Winter,Millets
+714,Alluvial,6.41,Andhra Pradesh,15,Monsoon,Millets
+674,Black,9.01,Andhra Pradesh,27,Summer,Millets
+654,Red,11.49,Andhra Pradesh,36,Winter,Millets
+481,Sandy,2.96,Andhra Pradesh,15,Summer,Millets
+555,Red,12.3,Andhra Pradesh,23,Winter,Millets
+714,Alluvial,6.41,Andhra Pradesh,15,Monsoon,Millets
+481,Sandy,2.96,Andhra Pradesh,15,Summer,Millets
+650,Red,16.13,Andhra Pradesh,26,Summer,Millets
+786,Black,14.98,Andhra Pradesh,39,Summer,Millets
+786,Black,14.98,Andhra Pradesh,39,Summer,Millets
+314,Red,16.28,Andhra Pradesh,44,Summer,Millets
+271,Red,3.55,Andhra Pradesh,43,Monsoon,Millets
+516,Sandy,16.89,Andhra Pradesh,12,Winter,Millets
+778,Black,0.67,Andhra Pradesh,12,Monsoon,Millets
+481,Sandy,2.96,Andhra Pradesh,15,Summer,Millets
+234,Sandy,12.22,Andhra Pradesh,45,Summer,Millets
+650,Red,16.13,Andhra Pradesh,26,Summer,Millets
+786,Black,14.98,Andhra Pradesh,39,Summer,Millets
+568,Black,3.55,Andhra Pradesh,22,Summer,Millets
+946,Red,4.92,Andhra Pradesh,37,Summer,Millets
+234,Sandy,12.22,Andhra Pradesh,45,Summer,Millets
+417,Alluvial,15.59,Andhra Pradesh,32,Winter,Millets
+933,Alluvial,14.78,Andhra Pradesh,45,Winter,Millets
+417,Alluvial,15.59,Andhra Pradesh,32,Winter,Millets
+674,Black,9.01,Andhra Pradesh,27,Summer,Millets
+786,Black,14.98,Andhra Pradesh,39,Summer,Millets
+786,Black,14.98,Andhra Pradesh,39,Summer,Millets
+978,Black,6.99,Andhra Pradesh,12,Summer,Millets
+933,Alluvial,14.78,Andhra Pradesh,45,Winter,Millets
+374,Alluvial,1.99,Andhra Pradesh,19,Summer,Millets
+654,Red,11.49,Andhra Pradesh,36,Winter,Millets
+933,Alluvial,14.78,Andhra Pradesh,45,Winter,Millets
+813,Alluvial,3.68,Andhra Pradesh,18,Summer,Millets
+563,Red,4.32,Andhra Pradesh,36,Winter,Millets
+161,Black,13.93,Andhra Pradesh,29,Monsoon,Millets
+650,Red,16.13,Andhra Pradesh,26,Summer,Millets
+714,Alluvial,6.41,Andhra Pradesh,15,Monsoon,Millets
+271,Red,3.55,Andhra Pradesh,43,Monsoon,Millets
+314,Red,16.28,Andhra Pradesh,44,Summer,Millets
+978,Black,6.99,Andhra Pradesh,12,Summer,Millets
+778,Black,0.67,Andhra Pradesh,12,Monsoon,Millets
+568,Black,3.55,Andhra Pradesh,22,Summer,Millets
+448,Red,18.0,Andhra Pradesh,14,Summer,Millets
+978,Black,6.99,Andhra Pradesh,12,Summer,Millets
+234,Sandy,12.22,Andhra Pradesh,45,Summer,Millets
+933,Alluvial,14.78,Andhra Pradesh,45,Winter,Millets
+654,Red,11.49,Andhra Pradesh,36,Winter,Millets
+654,Red,11.49,Andhra Pradesh,36,Winter,Millets
+650,Red,16.13,Andhra Pradesh,26,Summer,Millets
+374,Alluvial,1.99,Andhra Pradesh,19,Summer,Millets
+499,Alluvial,16.35,Andhra Pradesh,25,Monsoon,Millets
+813,Alluvial,3.68,Andhra Pradesh,18,Summer,Millets
+674,Black,9.01,Andhra Pradesh,27,Summer,Millets
+555,Red,12.3,Andhra Pradesh,23,Winter,Millets
+374,Alluvial,1.99,Andhra Pradesh,19,Summer,Millets
+516,Sandy,16.89,Andhra Pradesh,12,Winter,Millets
+417,Alluvial,15.59,Andhra Pradesh,32,Winter,Millets
+674,Black,9.01,Andhra Pradesh,27,Summer,Millets
+946,Red,4.92,Andhra Pradesh,37,Summer,Millets
+933,Alluvial,14.78,Andhra Pradesh,45,Winter,Millets
+516,Sandy,16.89,Andhra Pradesh,12,Winter,Millets
+927,Clayey,16.37,Rajasthan,36,Winter,Mustard
+817,Clayey,18.8,Rajasthan,43,Monsoon,Mustard
+927,Clayey,16.37,Rajasthan,36,Winter,Mustard
+927,Sandy,17.43,Rajasthan,27,Winter,Mustard
+927,Clayey,16.37,Rajasthan,36,Winter,Mustard
+650,Desert,7.8,Rajasthan,38,Monsoon,Mustard
+941,Clayey,6.79,Rajasthan,17,Winter,Mustard
+502,Sandy,9.18,Rajasthan,24,Winter,Mustard
+817,Clayey,18.8,Rajasthan,43,Monsoon,Mustard
+446,Loamy,16.94,Rajasthan,31,Summer,Mustard
+893,Loamy,0.57,Rajasthan,16,Monsoon,Mustard
+502,Sandy,9.18,Rajasthan,24,Winter,Mustard
+273,Loamy,0.95,Rajasthan,10,Winter,Mustard
+926,Loamy,6.9,Rajasthan,19,Summer,Mustard
+813,Clayey,3.95,Rajasthan,42,Summer,Mustard
+432,Desert,0.97,Rajasthan,28,Summer,Mustard
+756,Clayey,3.16,Rajasthan,43,Summer,Mustard
+432,Desert,0.97,Rajasthan,28,Summer,Mustard
+243,Loamy,10.86,Rajasthan,34,Winter,Mustard
+819,Desert,4.03,Rajasthan,14,Winter,Mustard
+188,Clayey,10.55,Rajasthan,35,Monsoon,Mustard
+650,Desert,7.8,Rajasthan,38,Monsoon,Mustard
+431,Desert,13.07,Rajasthan,36,Summer,Mustard
+941,Clayey,6.79,Rajasthan,17,Winter,Mustard
+355,Sandy,19.13,Rajasthan,25,Winter,Mustard
+223,Sandy,4.46,Rajasthan,19,Monsoon,Mustard
+655,Clayey,13.82,Rajasthan,13,Summer,Mustard
+234,Sandy,9.33,Rajasthan,34,Winter,Mustard
+830,Clayey,14.45,Rajasthan,21,Monsoon,Mustard
+650,Desert,7.8,Rajasthan,38,Monsoon,Mustard
+432,Desert,0.97,Rajasthan,28,Summer,Mustard
+941,Clayey,6.79,Rajasthan,17,Winter,Mustard
+720,Desert,5.09,Rajasthan,39,Monsoon,Mustard
+830,Clayey,14.45,Rajasthan,21,Monsoon,Mustard
+273,Loamy,0.95,Rajasthan,10,Winter,Mustard
+446,Loamy,16.94,Rajasthan,31,Summer,Mustard
+273,Loamy,0.95,Rajasthan,10,Winter,Mustard
+650,Desert,7.8,Rajasthan,38,Monsoon,Mustard
+355,Sandy,19.13,Rajasthan,25,Winter,Mustard
+893,Loamy,0.57,Rajasthan,16,Monsoon,Mustard
+772,Sandy,2.39,Rajasthan,23,Summer,Mustard
+926,Loamy,6.9,Rajasthan,19,Summer,Mustard
+927,Clayey,16.37,Rajasthan,36,Winter,Mustard
+223,Sandy,4.46,Rajasthan,19,Monsoon,Mustard
+446,Loamy,16.94,Rajasthan,31,Summer,Mustard
+893,Loamy,0.57,Rajasthan,16,Monsoon,Mustard
+432,Desert,0.97,Rajasthan,28,Summer,Mustard
+273,Loamy,0.95,Rajasthan,10,Winter,Mustard
+655,Clayey,13.82,Rajasthan,13,Summer,Mustard
+502,Sandy,9.18,Rajasthan,24,Winter,Mustard
+819,Desert,4.03,Rajasthan,14,Winter,Mustard
+273,Loamy,0.95,Rajasthan,10,Winter,Mustard
+926,Loamy,6.9,Rajasthan,19,Summer,Mustard
+756,Clayey,3.16,Rajasthan,43,Summer,Mustard
+720,Desert,5.09,Rajasthan,39,Monsoon,Mustard
+188,Clayey,10.55,Rajasthan,35,Monsoon,Mustard
+893,Loamy,0.57,Rajasthan,16,Monsoon,Mustard
+941,Clayey,6.79,Rajasthan,17,Winter,Mustard
+941,Clayey,6.79,Rajasthan,17,Winter,Mustard
+188,Clayey,10.55,Rajasthan,35,Monsoon,Mustard
+819,Desert,4.03,Rajasthan,14,Winter,Mustard
+926,Loamy,6.9,Rajasthan,19,Summer,Mustard
+720,Desert,5.09,Rajasthan,39,Monsoon,Mustard
+941,Clayey,6.79,Rajasthan,17,Winter,Mustard
+926,Loamy,6.9,Rajasthan,19,Summer,Mustard
+941,Clayey,6.79,Rajasthan,17,Winter,Mustard
+234,Sandy,9.33,Rajasthan,34,Winter,Mustard
+234,Sandy,9.33,Rajasthan,34,Winter,Mustard
+431,Desert,13.07,Rajasthan,36,Summer,Mustard
+893,Loamy,0.57,Rajasthan,16,Monsoon,Mustard
+926,Loamy,6.9,Rajasthan,19,Summer,Mustard
+243,Loamy,10.86,Rajasthan,34,Winter,Mustard
+502,Sandy,9.18,Rajasthan,24,Winter,Mustard
+243,Loamy,10.86,Rajasthan,34,Winter,Mustard
+273,Loamy,0.95,Rajasthan,10,Winter,Mustard
+431,Desert,13.07,Rajasthan,36,Summer,Mustard
+432,Desert,0.97,Rajasthan,28,Summer,Mustard
+432,Desert,0.97,Rajasthan,28,Summer,Mustard
+817,Clayey,18.8,Rajasthan,43,Monsoon,Mustard
+273,Loamy,0.95,Rajasthan,10,Winter,Mustard
+893,Loamy,0.57,Rajasthan,16,Monsoon,Mustard
+927,Sandy,17.43,Rajasthan,27,Winter,Mustard
+655,Clayey,13.82,Rajasthan,13,Summer,Mustard
+927,Sandy,17.43,Rajasthan,27,Winter,Mustard
+786,Clayey,3.25,Rajasthan,39,Winter,Mustard
+927,Clayey,16.37,Rajasthan,36,Winter,Mustard
+927,Clayey,16.37,Rajasthan,36,Winter,Mustard
+655,Clayey,13.82,Rajasthan,13,Summer,Mustard
+926,Alluvial,4.93,Uttar Pradesh,34,Summer,Potatoes
+617,Alluvial,4.16,Uttar Pradesh,17,Monsoon,Potatoes
+883,Loamy,3.42,Uttar Pradesh,19,Summer,Potatoes
+168,Clayey,9.43,Uttar Pradesh,33,Winter,Potatoes
+883,Loamy,3.42,Uttar Pradesh,19,Summer,Potatoes
+802,Alluvial,17.5,Uttar Pradesh,20,Monsoon,Potatoes
+364,Loamy,10.43,Uttar Pradesh,13,Monsoon,Potatoes
+218,Loamy,18.39,Uttar Pradesh,38,Winter,Potatoes
+478,Alluvial,18.03,Uttar Pradesh,40,Winter,Potatoes
+478,Alluvial,18.03,Uttar Pradesh,40,Winter,Potatoes
+802,Alluvial,17.5,Uttar Pradesh,20,Monsoon,Potatoes
+325,Clayey,1.6,Uttar Pradesh,25,Winter,Potatoes
+758,Loamy,7.35,Uttar Pradesh,12,Summer,Potatoes
+427,Alluvial,9.2,Uttar Pradesh,15,Monsoon,Potatoes
+874,Clayey,17.36,Uttar Pradesh,34,Summer,Potatoes
+780,Loamy,15.21,Uttar Pradesh,25,Summer,Potatoes
+893,Clayey,15.86,Uttar Pradesh,39,Monsoon,Potatoes
+620,Loamy,18.04,Uttar Pradesh,13,Summer,Potatoes
+427,Alluvial,9.2,Uttar Pradesh,15,Monsoon,Potatoes
+620,Loamy,18.04,Uttar Pradesh,13,Summer,Potatoes
+617,Alluvial,4.16,Uttar Pradesh,17,Monsoon,Potatoes
+427,Alluvial,9.2,Uttar Pradesh,15,Monsoon,Potatoes
+617,Alluvial,4.16,Uttar Pradesh,17,Monsoon,Potatoes
+478,Alluvial,18.03,Uttar Pradesh,40,Winter,Potatoes
+780,Loamy,15.21,Uttar Pradesh,25,Summer,Potatoes
+427,Alluvial,9.2,Uttar Pradesh,15,Monsoon,Potatoes
+855,Clayey,1.88,Uttar Pradesh,28,Monsoon,Potatoes
+620,Loamy,18.04,Uttar Pradesh,13,Summer,Potatoes
+168,Clayey,9.43,Uttar Pradesh,33,Winter,Potatoes
+478,Alluvial,18.03,Uttar Pradesh,40,Winter,Potatoes
+986,Loamy,2.58,Uttar Pradesh,30,Summer,Potatoes
+780,Loamy,15.21,Uttar Pradesh,25,Summer,Potatoes
+364,Loamy,10.43,Uttar Pradesh,13,Monsoon,Potatoes
+802,Alluvial,17.5,Uttar Pradesh,20,Monsoon,Potatoes
+849,Loamy,16.52,Uttar Pradesh,35,Summer,Potatoes
+986,Loamy,2.58,Uttar Pradesh,30,Summer,Potatoes
+364,Loamy,10.43,Uttar Pradesh,13,Monsoon,Potatoes
+986,Loamy,2.58,Uttar Pradesh,30,Summer,Potatoes
+364,Loamy,10.43,Uttar Pradesh,13,Monsoon,Potatoes
+855,Clayey,1.88,Uttar Pradesh,28,Monsoon,Potatoes
+802,Alluvial,17.5,Uttar Pradesh,20,Monsoon,Potatoes
+427,Alluvial,9.2,Uttar Pradesh,15,Monsoon,Potatoes
+620,Loamy,18.04,Uttar Pradesh,13,Summer,Potatoes
+325,Clayey,1.6,Uttar Pradesh,25,Winter,Potatoes
+427,Alluvial,9.2,Uttar Pradesh,15,Monsoon,Potatoes
+876,Loamy,19.99,Uttar Pradesh,36,Monsoon,Potatoes
+874,Clayey,17.36,Uttar Pradesh,34,Summer,Potatoes
+874,Clayey,17.36,Uttar Pradesh,34,Summer,Potatoes
+218,Loamy,18.39,Uttar Pradesh,38,Winter,Potatoes
+874,Clayey,17.36,Uttar Pradesh,34,Summer,Potatoes
+780,Loamy,15.21,Uttar Pradesh,25,Summer,Potatoes
+478,Alluvial,18.03,Uttar Pradesh,40,Winter,Potatoes
+218,Loamy,18.39,Uttar Pradesh,38,Winter,Potatoes
+874,Clayey,17.36,Uttar Pradesh,34,Summer,Potatoes
+218,Loamy,18.39,Uttar Pradesh,38,Winter,Potatoes
+486,Loamy,18.04,Uttar Pradesh,18,Summer,Potatoes
+849,Loamy,16.52,Uttar Pradesh,35,Summer,Potatoes
+486,Loamy,18.04,Uttar Pradesh,18,Summer,Potatoes
+849,Loamy,16.52,Uttar Pradesh,35,Summer,Potatoes
+926,Alluvial,4.93,Uttar Pradesh,34,Summer,Potatoes
+926,Alluvial,4.93,Uttar Pradesh,34,Summer,Potatoes
+617,Alluvial,4.16,Uttar Pradesh,17,Monsoon,Potatoes
+780,Loamy,15.21,Uttar Pradesh,25,Summer,Potatoes
+780,Loamy,15.21,Uttar Pradesh,25,Summer,Potatoes
+325,Clayey,1.6,Uttar Pradesh,25,Winter,Potatoes
+802,Alluvial,17.5,Uttar Pradesh,20,Monsoon,Potatoes
+617,Alluvial,4.16,Uttar Pradesh,17,Monsoon,Potatoes
+986,Loamy,2.58,Uttar Pradesh,30,Summer,Potatoes
+325,Clayey,1.6,Uttar Pradesh,25,Winter,Potatoes
+620,Loamy,18.04,Uttar Pradesh,13,Summer,Potatoes
+168,Clayey,9.43,Uttar Pradesh,33,Winter,Potatoes
+802,Alluvial,17.5,Uttar Pradesh,20,Monsoon,Potatoes
+622,Loamy,15.96,Uttar Pradesh,14,Winter,Potatoes
+883,Loamy,3.42,Uttar Pradesh,19,Summer,Potatoes
+758,Loamy,7.35,Uttar Pradesh,12,Summer,Potatoes
+427,Alluvial,9.2,Uttar Pradesh,15,Monsoon,Potatoes
+364,Loamy,10.43,Uttar Pradesh,13,Monsoon,Potatoes
+758,Loamy,7.35,Uttar Pradesh,12,Summer,Potatoes
+876,Loamy,19.99,Uttar Pradesh,36,Monsoon,Potatoes
+622,Loamy,15.96,Uttar Pradesh,14,Winter,Potatoes
+478,Alluvial,18.03,Uttar Pradesh,40,Winter,Potatoes
+478,Alluvial,18.03,Uttar Pradesh,40,Winter,Potatoes
+874,Clayey,17.36,Uttar Pradesh,34,Summer,Potatoes
+218,Loamy,18.39,Uttar Pradesh,38,Winter,Potatoes
+364,Loamy,10.43,Uttar Pradesh,13,Monsoon,Potatoes
+849,Loamy,16.52,Uttar Pradesh,35,Summer,Potatoes
+168,Clayey,9.43,Uttar Pradesh,33,Winter,Potatoes
+486,Loamy,18.04,Uttar Pradesh,18,Summer,Potatoes
+364,Loamy,10.43,Uttar Pradesh,13,Monsoon,Potatoes
+926,Alluvial,4.93,Uttar Pradesh,34,Summer,Potatoes
+855,Clayey,1.88,Uttar Pradesh,28,Monsoon,Potatoes
+478,Alluvial,18.03,Uttar Pradesh,40,Winter,Potatoes
+478,Alluvial,18.03,Uttar Pradesh,40,Winter,Potatoes
+884,Red,13.23,Madhya Pradesh,19,Winter,Pulses
+706,Black,19.28,Madhya Pradesh,27,Summer,Pulses
+166,Alluvial,16.94,Madhya Pradesh,34,Winter,Pulses
+615,Mixed,14.35,Madhya Pradesh,26,Summer,Pulses
+486,Sandy,8.43,Rajasthan,29,Monsoon,Pulses
+706,Black,19.28,Madhya Pradesh,27,Summer,Pulses
+468,Black,9.66,Madhya Pradesh,39,Summer,Pulses
+421,Clayey,10.81,Rajasthan,12,Summer,Pulses
+166,Alluvial,16.94,Madhya Pradesh,34,Winter,Pulses
+706,Black,19.28,Madhya Pradesh,27,Summer,Pulses
+655,Clayey,5.25,Rajasthan,27,Winter,Pulses
+290,Mixed,0.94,Madhya Pradesh,37,Winter,Pulses
+486,Sandy,8.43,Rajasthan,29,Monsoon,Pulses
+969,Black,1.2,Madhya Pradesh,13,Summer,Pulses
+135,Clayey,15.12,Rajasthan,11,Winter,Pulses
+295,Black,13.5,Madhya Pradesh,29,Winter,Pulses
+396,Clayey,17.66,Rajasthan,16,Winter,Pulses
+902,Alluvial,12.64,Madhya Pradesh,40,Summer,Pulses
+493,Black,11.92,Madhya Pradesh,31,Monsoon,Pulses
+599,Alluvial,12.85,Madhya Pradesh,25,Winter,Pulses
+615,Mixed,14.35,Madhya Pradesh,26,Summer,Pulses
+150,Desert,1.84,Rajasthan,35,Monsoon,Pulses
+373,Red,6.84,Madhya Pradesh,43,Monsoon,Pulses
+897,Loamy,8.0,Rajasthan,15,Summer,Pulses
+373,Red,6.84,Madhya Pradesh,43,Monsoon,Pulses
+884,Red,13.23,Madhya Pradesh,19,Winter,Pulses
+166,Alluvial,16.94,Madhya Pradesh,34,Winter,Pulses
+396,Clayey,9.41,Rajasthan,14,Monsoon,Pulses
+493,Black,11.92,Madhya Pradesh,31,Monsoon,Pulses
+897,Loamy,8.0,Rajasthan,15,Summer,Pulses
+472,Clayey,15.48,Rajasthan,43,Winter,Pulses
+258,Loamy,17.86,Rajasthan,17,Monsoon,Pulses
+493,Black,11.92,Madhya Pradesh,31,Monsoon,Pulses
+568,Clayey,7.16,Rajasthan,41,Winter,Pulses
+150,Desert,1.84,Rajasthan,35,Monsoon,Pulses
+290,Mixed,0.94,Madhya Pradesh,37,Winter,Pulses
+123,Loamy,18.39,Rajasthan,27,Winter,Pulses
+135,Clayey,15.12,Rajasthan,11,Winter,Pulses
+649,Alluvial,3.3,Madhya Pradesh,24,Summer,Pulses
+884,Red,13.23,Madhya Pradesh,19,Winter,Pulses
+414,Sandy,2.89,Rajasthan,19,Summer,Pulses
+886,Alluvial,11.34,Madhya Pradesh,13,Winter,Pulses
+200,Red,8.93,Madhya Pradesh,43,Summer,Pulses
+396,Clayey,9.41,Rajasthan,14,Monsoon,Pulses
+504,Sandy,19.43,Rajasthan,10,Summer,Pulses
+513,Mixed,3.56,Madhya Pradesh,33,Summer,Pulses
+123,Loamy,18.39,Rajasthan,27,Winter,Pulses
+599,Alluvial,12.85,Madhya Pradesh,25,Winter,Pulses
+423,Black,12.05,Madhya Pradesh,31,Summer,Pulses
+166,Alluvial,16.94,Madhya Pradesh,34,Winter,Pulses
+414,Sandy,2.89,Rajasthan,19,Summer,Pulses
+423,Black,12.05,Madhya Pradesh,31,Summer,Pulses
+599,Alluvial,12.85,Madhya Pradesh,25,Winter,Pulses
+940,Desert,16.94,Rajasthan,27,Monsoon,Pulses
+884,Red,13.23,Madhya Pradesh,19,Winter,Pulses
+494,Desert,15.26,Rajasthan,19,Winter,Pulses
+423,Black,12.05,Madhya Pradesh,31,Summer,Pulses
+423,Black,12.05,Madhya Pradesh,31,Summer,Pulses
+568,Clayey,7.16,Rajasthan,41,Winter,Pulses
+594,Clayey,14.12,Rajasthan,28,Monsoon,Pulses
+418,Loamy,3.65,Rajasthan,24,Winter,Pulses
+594,Clayey,14.12,Rajasthan,28,Monsoon,Pulses
+894,Sandy,1.22,Rajasthan,36,Summer,Pulses
+468,Black,9.66,Madhya Pradesh,39,Summer,Pulses
+271,Mixed,17.74,Madhya Pradesh,41,Monsoon,Pulses
+290,Mixed,0.94,Madhya Pradesh,37,Winter,Pulses
+894,Sandy,1.22,Rajasthan,36,Summer,Pulses
+200,Red,8.93,Madhya Pradesh,43,Summer,Pulses
+599,Alluvial,12.85,Madhya Pradesh,25,Winter,Pulses
+649,Alluvial,3.3,Madhya Pradesh,24,Summer,Pulses
+626,Red,11.74,Karnataka,20,Monsoon,Ragi
+460,Laterite,4.03,Karnataka,28,Summer,Ragi
+190,Laterite,8.15,Karnataka,42,Monsoon,Ragi
+968,Laterite,18.92,Karnataka,40,Monsoon,Ragi
+402,Black,2.93,Karnataka,25,Monsoon,Ragi
+495,Black,18.8,Karnataka,10,Winter,Ragi
+829,Black,7.01,Karnataka,34,Winter,Ragi
+402,Black,2.93,Karnataka,25,Monsoon,Ragi
+460,Laterite,4.03,Karnataka,28,Summer,Ragi
+190,Laterite,8.15,Karnataka,42,Monsoon,Ragi
+190,Laterite,8.15,Karnataka,42,Monsoon,Ragi
+143,Red,3.96,Karnataka,27,Summer,Ragi
+657,Laterite,5.76,Karnataka,45,Winter,Ragi
+626,Red,11.74,Karnataka,20,Monsoon,Ragi
+190,Laterite,8.15,Karnataka,42,Monsoon,Ragi
+267,Laterite,4.45,Karnataka,14,Summer,Ragi
+657,Laterite,5.76,Karnataka,45,Winter,Ragi
+712,Laterite,1.28,Karnataka,14,Monsoon,Ragi
+968,Laterite,18.92,Karnataka,40,Monsoon,Ragi
+460,Laterite,4.03,Karnataka,28,Summer,Ragi
+829,Black,7.01,Karnataka,34,Winter,Ragi
+626,Red,11.74,Karnataka,20,Monsoon,Ragi
+838,Red,19.32,Karnataka,38,Monsoon,Ragi
+267,Laterite,4.45,Karnataka,14,Summer,Ragi
+293,Black,8.79,Karnataka,22,Monsoon,Ragi
+495,Black,18.8,Karnataka,10,Winter,Ragi
+765,Red,18.15,Karnataka,14,Winter,Ragi
+190,Laterite,8.15,Karnataka,42,Monsoon,Ragi
+838,Red,19.32,Karnataka,38,Monsoon,Ragi
+190,Laterite,8.15,Karnataka,42,Monsoon,Ragi
+402,Black,2.93,Karnataka,25,Monsoon,Ragi
+267,Laterite,4.45,Karnataka,14,Summer,Ragi
+402,Black,2.93,Karnataka,25,Monsoon,Ragi
+143,Red,3.96,Karnataka,27,Summer,Ragi
+402,Black,2.93,Karnataka,25,Monsoon,Ragi
+143,Red,3.96,Karnataka,27,Summer,Ragi
+495,Black,18.8,Karnataka,10,Winter,Ragi
+460,Laterite,4.03,Karnataka,28,Summer,Ragi
+143,Red,3.96,Karnataka,27,Summer,Ragi
+838,Red,19.32,Karnataka,38,Monsoon,Ragi
+657,Laterite,5.76,Karnataka,45,Winter,Ragi
+477,Alluvial,9.51,Karnataka,10,Winter,Ragi
+190,Laterite,8.15,Karnataka,42,Monsoon,Ragi
+765,Red,18.15,Karnataka,14,Winter,Ragi
+657,Laterite,5.76,Karnataka,45,Winter,Ragi
+829,Black,7.01,Karnataka,34,Winter,Ragi
+460,Laterite,4.03,Karnataka,28,Summer,Ragi
+402,Black,2.93,Karnataka,25,Monsoon,Ragi
+293,Black,8.79,Karnataka,22,Monsoon,Ragi
+829,Black,7.01,Karnataka,34,Winter,Ragi
+267,Laterite,4.45,Karnataka,14,Summer,Ragi
+143,Red,3.96,Karnataka,27,Summer,Ragi
+190,Laterite,8.15,Karnataka,42,Monsoon,Ragi
+968,Laterite,18.92,Karnataka,40,Monsoon,Ragi
+626,Red,11.74,Karnataka,20,Monsoon,Ragi
+838,Red,19.32,Karnataka,38,Monsoon,Ragi
+765,Red,18.15,Karnataka,14,Winter,Ragi
+428,Red,11.99,Karnataka,21,Winter,Ragi
+838,Red,19.32,Karnataka,38,Monsoon,Ragi
+495,Black,18.8,Karnataka,10,Winter,Ragi
+968,Laterite,18.92,Karnataka,40,Monsoon,Ragi
+293,Black,8.79,Karnataka,22,Monsoon,Ragi
+626,Red,11.74,Karnataka,20,Monsoon,Ragi
+968,Laterite,18.92,Karnataka,40,Monsoon,Ragi
+402,Black,2.93,Karnataka,25,Monsoon,Ragi
+143,Red,3.96,Karnataka,27,Summer,Ragi
+460,Laterite,4.03,Karnataka,28,Summer,Ragi
+765,Red,18.15,Karnataka,14,Winter,Ragi
+712,Laterite,1.28,Karnataka,14,Monsoon,Ragi
+143,Red,3.96,Karnataka,27,Summer,Ragi
+712,Laterite,1.28,Karnataka,14,Monsoon,Ragi
+829,Black,7.01,Karnataka,34,Winter,Ragi
+460,Laterite,4.03,Karnataka,28,Summer,Ragi
+626,Red,11.74,Karnataka,20,Monsoon,Ragi
+190,Laterite,8.15,Karnataka,42,Monsoon,Ragi
+428,Red,11.99,Karnataka,21,Winter,Ragi
+267,Laterite,4.45,Karnataka,14,Summer,Ragi
+657,Laterite,5.76,Karnataka,45,Winter,Ragi
+460,Laterite,4.03,Karnataka,28,Summer,Ragi
+143,Red,3.96,Karnataka,27,Summer,Ragi
+765,Red,18.15,Karnataka,14,Winter,Ragi
+657,Laterite,5.76,Karnataka,45,Winter,Ragi
+495,Black,18.8,Karnataka,10,Winter,Ragi
+495,Black,18.8,Karnataka,10,Winter,Ragi
+968,Laterite,18.92,Karnataka,40,Monsoon,Ragi
+657,Laterite,5.76,Karnataka,45,Winter,Ragi
+765,Red,18.15,Karnataka,14,Winter,Ragi
+626,Red,11.74,Karnataka,20,Monsoon,Ragi
+829,Black,7.01,Karnataka,34,Winter,Ragi
+712,Laterite,1.28,Karnataka,14,Monsoon,Ragi
+968,Laterite,18.92,Karnataka,40,Monsoon,Ragi
+495,Black,18.8,Karnataka,10,Winter,Ragi
+267,Laterite,4.45,Karnataka,14,Summer,Ragi
+267,Laterite,4.45,Karnataka,14,Summer,Ragi
+143,Red,3.96,Karnataka,27,Summer,Ragi
+626,Red,11.74,Karnataka,20,Monsoon,Ragi
+477,Alluvial,9.51,Karnataka,10,Winter,Ragi
+190,Laterite,8.15,Karnataka,42,Monsoon,Ragi
+884,Laterite,4.56,Kerala,24,Summer,Rubber
+343,Sandy,19.56,Kerala,23,Monsoon,Rubber
+962,Peaty,4.58,Kerala,26,Monsoon,Rubber
+485,Peaty,15.66,Kerala,28,Winter,Rubber
+110,Sandy,5.64,Kerala,38,Monsoon,Rubber
+869,Sandy,8.73,Kerala,15,Monsoon,Rubber
+152,Laterite,14.94,Kerala,12,Summer,Rubber
+485,Peaty,15.66,Kerala,28,Winter,Rubber
+485,Peaty,15.66,Kerala,28,Winter,Rubber
+467,Sandy,7.93,Kerala,24,Summer,Rubber
+110,Sandy,5.64,Kerala,38,Monsoon,Rubber
+339,Sandy,5.45,Kerala,36,Winter,Rubber
+470,Peaty,9.01,Kerala,30,Monsoon,Rubber
+313,Peaty,19.06,Kerala,21,Summer,Rubber
+836,Laterite,14.01,Kerala,34,Winter,Rubber
+884,Laterite,4.56,Kerala,24,Summer,Rubber
+884,Laterite,4.56,Kerala,24,Summer,Rubber
+595,Sandy,2.91,Kerala,29,Summer,Rubber
+884,Laterite,4.56,Kerala,24,Summer,Rubber
+110,Sandy,5.64,Kerala,38,Monsoon,Rubber
+467,Sandy,7.93,Kerala,24,Summer,Rubber
+992,Sandy,14.64,Kerala,34,Monsoon,Rubber
+785,Sandy,8.84,Kerala,38,Summer,Rubber
+977,Sandy,19.46,Kerala,40,Monsoon,Rubber
+785,Sandy,8.84,Kerala,38,Summer,Rubber
+806,Peaty,12.53,Kerala,41,Monsoon,Rubber
+785,Sandy,8.84,Kerala,38,Summer,Rubber
+977,Sandy,19.46,Kerala,40,Monsoon,Rubber
+691,Laterite,7.33,Kerala,29,Summer,Rubber
+110,Sandy,5.64,Kerala,38,Monsoon,Rubber
+152,Laterite,14.94,Kerala,12,Summer,Rubber
+884,Laterite,4.56,Kerala,24,Summer,Rubber
+884,Laterite,4.56,Kerala,24,Summer,Rubber
+467,Sandy,7.93,Kerala,24,Summer,Rubber
+595,Sandy,2.91,Kerala,29,Summer,Rubber
+467,Sandy,7.93,Kerala,24,Summer,Rubber
+992,Sandy,14.64,Kerala,34,Monsoon,Rubber
+992,Sandy,14.64,Kerala,34,Monsoon,Rubber
+869,Sandy,8.73,Kerala,15,Monsoon,Rubber
+595,Sandy,2.91,Kerala,29,Summer,Rubber
+467,Sandy,7.93,Kerala,24,Summer,Rubber
+884,Laterite,4.56,Kerala,24,Summer,Rubber
+313,Peaty,19.06,Kerala,21,Summer,Rubber
+531,Laterite,7.87,Kerala,43,Monsoon,Rubber
+977,Sandy,19.46,Kerala,40,Monsoon,Rubber
+977,Sandy,19.46,Kerala,40,Monsoon,Rubber
+785,Sandy,8.84,Kerala,38,Summer,Rubber
+531,Laterite,7.87,Kerala,43,Monsoon,Rubber
+595,Sandy,2.91,Kerala,29,Summer,Rubber
+339,Sandy,5.45,Kerala,36,Winter,Rubber
+992,Sandy,14.64,Kerala,34,Monsoon,Rubber
+785,Sandy,8.84,Kerala,38,Summer,Rubber
+485,Peaty,15.66,Kerala,28,Winter,Rubber
+785,Sandy,8.84,Kerala,38,Summer,Rubber
+339,Sandy,5.45,Kerala,36,Winter,Rubber
+691,Laterite,7.33,Kerala,29,Summer,Rubber
+313,Peaty,19.06,Kerala,21,Summer,Rubber
+485,Peaty,15.66,Kerala,28,Winter,Rubber
+313,Peaty,19.06,Kerala,21,Summer,Rubber
+785,Sandy,8.84,Kerala,38,Summer,Rubber
+992,Sandy,14.64,Kerala,34,Monsoon,Rubber
+470,Peaty,9.01,Kerala,30,Monsoon,Rubber
+977,Sandy,19.46,Kerala,40,Monsoon,Rubber
+339,Sandy,5.45,Kerala,36,Winter,Rubber
+470,Peaty,9.01,Kerala,30,Monsoon,Rubber
+531,Laterite,7.87,Kerala,43,Monsoon,Rubber
+977,Sandy,19.46,Kerala,40,Monsoon,Rubber
+884,Laterite,4.56,Kerala,24,Summer,Rubber
+485,Peaty,15.66,Kerala,28,Winter,Rubber
+977,Sandy,19.46,Kerala,40,Monsoon,Rubber
+339,Sandy,5.45,Kerala,36,Winter,Rubber
+621,Alluvial,13.31,Kerala,18,Summer,Rubber
+470,Peaty,9.01,Kerala,30,Monsoon,Rubber
+691,Laterite,7.33,Kerala,29,Summer,Rubber
+467,Sandy,7.93,Kerala,24,Summer,Rubber
+467,Sandy,7.93,Kerala,24,Summer,Rubber
+339,Sandy,5.45,Kerala,36,Winter,Rubber
+339,Sandy,5.45,Kerala,36,Winter,Rubber
+343,Sandy,19.56,Kerala,23,Monsoon,Rubber
+485,Peaty,15.66,Kerala,28,Winter,Rubber
+531,Laterite,7.87,Kerala,43,Monsoon,Rubber
+343,Sandy,19.56,Kerala,23,Monsoon,Rubber
+313,Peaty,19.06,Kerala,21,Summer,Rubber
+884,Laterite,4.56,Kerala,24,Summer,Rubber
+992,Sandy,14.64,Kerala,34,Monsoon,Rubber
+992,Sandy,14.64,Kerala,34,Monsoon,Rubber
+884,Laterite,4.56,Kerala,24,Summer,Rubber
+977,Sandy,19.46,Kerala,40,Monsoon,Rubber
+110,Sandy,5.64,Kerala,38,Monsoon,Rubber
+343,Sandy,19.56,Kerala,23,Monsoon,Rubber
+621,Alluvial,13.31,Kerala,18,Summer,Rubber
+470,Peaty,9.01,Kerala,30,Monsoon,Rubber
+884,Laterite,4.56,Kerala,24,Summer,Rubber
+617,Alluvial,7.32,Madhya Pradesh,24,Winter,Soybean
+685,Mixed,13.73,Madhya Pradesh,34,Monsoon,Soybean
+217,Red,1.11,Madhya Pradesh,19,Monsoon,Soybean
+686,Alluvial,0.93,Madhya Pradesh,45,Summer,Soybean
+475,Red,7.54,Madhya Pradesh,27,Summer,Soybean
+394,Black,19.22,Madhya Pradesh,31,Winter,Soybean
+394,Black,19.22,Madhya Pradesh,31,Winter,Soybean
+492,Red,13.83,Madhya Pradesh,28,Winter,Soybean
+326,Red,15.51,Madhya Pradesh,27,Summer,Soybean
+492,Red,13.83,Madhya Pradesh,28,Winter,Soybean
+556,Red,16.07,Madhya Pradesh,38,Winter,Soybean
+556,Red,16.07,Madhya Pradesh,38,Winter,Soybean
+686,Alluvial,0.93,Madhya Pradesh,45,Summer,Soybean
+698,Mixed,11.09,Madhya Pradesh,44,Monsoon,Soybean
+463,Red,8.08,Madhya Pradesh,40,Winter,Soybean
+473,Black,12.02,Madhya Pradesh,22,Summer,Soybean
+726,Alluvial,9.29,Madhya Pradesh,23,Summer,Soybean
+389,Mixed,9.01,Madhya Pradesh,17,Summer,Soybean
+946,Alluvial,11.7,Madhya Pradesh,14,Winter,Soybean
+686,Alluvial,0.93,Madhya Pradesh,45,Summer,Soybean
+473,Black,12.02,Madhya Pradesh,22,Summer,Soybean
+726,Alluvial,9.29,Madhya Pradesh,23,Summer,Soybean
+475,Red,7.54,Madhya Pradesh,27,Summer,Soybean
+257,Alluvial,8.48,Madhya Pradesh,18,Summer,Soybean
+685,Mixed,13.73,Madhya Pradesh,34,Monsoon,Soybean
+946,Alluvial,11.7,Madhya Pradesh,14,Winter,Soybean
+556,Red,16.07,Madhya Pradesh,38,Winter,Soybean
+421,Mixed,12.27,Madhya Pradesh,33,Monsoon,Soybean
+946,Alluvial,11.7,Madhya Pradesh,14,Winter,Soybean
+492,Red,13.83,Madhya Pradesh,28,Winter,Soybean
+726,Alluvial,9.29,Madhya Pradesh,23,Summer,Soybean
+257,Alluvial,8.48,Madhya Pradesh,18,Summer,Soybean
+685,Mixed,13.73,Madhya Pradesh,34,Monsoon,Soybean
+726,Alluvial,9.29,Madhya Pradesh,23,Summer,Soybean
+257,Alluvial,8.48,Madhya Pradesh,18,Summer,Soybean
+389,Mixed,9.01,Madhya Pradesh,17,Summer,Soybean
+686,Alluvial,0.93,Madhya Pradesh,45,Summer,Soybean
+217,Red,1.11,Madhya Pradesh,19,Monsoon,Soybean
+421,Mixed,12.27,Madhya Pradesh,33,Monsoon,Soybean
+217,Red,1.11,Madhya Pradesh,19,Monsoon,Soybean
+473,Black,12.02,Madhya Pradesh,22,Summer,Soybean
+421,Mixed,12.27,Madhya Pradesh,33,Monsoon,Soybean
+473,Black,12.02,Madhya Pradesh,22,Summer,Soybean
+698,Mixed,11.09,Madhya Pradesh,44,Monsoon,Soybean
+693,Mixed,12.75,Madhya Pradesh,35,Winter,Soybean
+421,Mixed,12.27,Madhya Pradesh,33,Monsoon,Soybean
+473,Black,12.02,Madhya Pradesh,22,Summer,Soybean
+929,Black,17.25,Madhya Pradesh,22,Winter,Soybean
+693,Mixed,12.75,Madhya Pradesh,35,Winter,Soybean
+475,Red,7.54,Madhya Pradesh,27,Summer,Soybean
+937,Red,10.48,Madhya Pradesh,15,Monsoon,Soybean
+145,Black,9.55,Madhya Pradesh,32,Winter,Soybean
+655,Red,15.64,Madhya Pradesh,34,Monsoon,Soybean
+617,Alluvial,7.32,Madhya Pradesh,24,Winter,Soybean
+145,Black,9.55,Madhya Pradesh,32,Winter,Soybean
+463,Red,8.08,Madhya Pradesh,40,Winter,Soybean
+475,Red,7.54,Madhya Pradesh,27,Summer,Soybean
+394,Black,19.22,Madhya Pradesh,31,Winter,Soybean
+389,Mixed,9.01,Madhya Pradesh,17,Summer,Soybean
+726,Alluvial,9.29,Madhya Pradesh,23,Summer,Soybean
+655,Red,15.64,Madhya Pradesh,34,Monsoon,Soybean
+693,Mixed,12.75,Madhya Pradesh,35,Winter,Soybean
+937,Red,10.48,Madhya Pradesh,15,Monsoon,Soybean
+421,Mixed,12.27,Madhya Pradesh,33,Monsoon,Soybean
+685,Mixed,13.73,Madhya Pradesh,34,Monsoon,Soybean
+463,Red,8.08,Madhya Pradesh,40,Winter,Soybean
+475,Red,7.54,Madhya Pradesh,27,Summer,Soybean
+726,Alluvial,9.29,Madhya Pradesh,23,Summer,Soybean
+617,Alluvial,7.32,Madhya Pradesh,24,Winter,Soybean
+421,Mixed,12.27,Madhya Pradesh,33,Monsoon,Soybean
+463,Red,8.08,Madhya Pradesh,40,Winter,Soybean
+655,Red,15.64,Madhya Pradesh,34,Monsoon,Soybean
+463,Red,8.08,Madhya Pradesh,40,Winter,Soybean
+693,Mixed,12.75,Madhya Pradesh,35,Winter,Soybean
+473,Black,12.02,Madhya Pradesh,22,Summer,Soybean
+463,Red,8.08,Madhya Pradesh,40,Winter,Soybean
+693,Mixed,12.75,Madhya Pradesh,35,Winter,Soybean
+726,Alluvial,9.29,Madhya Pradesh,23,Summer,Soybean
+726,Alluvial,9.29,Madhya Pradesh,23,Summer,Soybean
+686,Alluvial,0.93,Madhya Pradesh,45,Summer,Soybean
+463,Red,8.08,Madhya Pradesh,40,Winter,Soybean
+655,Red,15.64,Madhya Pradesh,34,Monsoon,Soybean
+685,Mixed,13.73,Madhya Pradesh,34,Monsoon,Soybean
+665,Alluvial,6.37,Madhya Pradesh,26,Summer,Soybean
+257,Alluvial,8.48,Madhya Pradesh,18,Summer,Soybean
+389,Mixed,9.01,Madhya Pradesh,17,Summer,Soybean
+389,Mixed,9.01,Madhya Pradesh,17,Summer,Soybean
+463,Red,8.08,Madhya Pradesh,40,Winter,Soybean
+665,Alluvial,6.37,Madhya Pradesh,26,Summer,Soybean
+326,Red,15.51,Madhya Pradesh,27,Summer,Soybean
+686,Alluvial,0.93,Madhya Pradesh,45,Summer,Soybean
+313,Laterite,9.65,Kerala,18,Winter,Spices
+631,Sandy,5.68,Kerala,32,Winter,Spices
+728,Laterite,3.4,Kerala,28,Summer,Spices
+313,Laterite,9.65,Kerala,18,Winter,Spices
+631,Sandy,5.68,Kerala,32,Winter,Spices
+631,Sandy,5.68,Kerala,32,Winter,Spices
+689,Sandy,7.02,Kerala,23,Monsoon,Spices
+728,Laterite,3.4,Kerala,28,Summer,Spices
+631,Sandy,5.68,Kerala,32,Winter,Spices
+689,Sandy,7.02,Kerala,23,Monsoon,Spices
+313,Laterite,9.65,Kerala,18,Winter,Spices
+558,Peaty,4.98,Kerala,44,Winter,Spices
+728,Laterite,3.4,Kerala,28,Summer,Spices
+379,Peaty,18.48,Kerala,25,Monsoon,Spices
+513,Laterite,6.22,Kerala,24,Summer,Spices
+513,Laterite,6.22,Kerala,24,Summer,Spices
+313,Laterite,9.65,Kerala,18,Winter,Spices
+726,Peaty,15.98,Kerala,19,Winter,Spices
+726,Peaty,15.98,Kerala,19,Winter,Spices
+313,Laterite,9.65,Kerala,18,Winter,Spices
+631,Sandy,5.68,Kerala,32,Winter,Spices
+728,Laterite,3.4,Kerala,28,Summer,Spices
+513,Laterite,6.22,Kerala,24,Summer,Spices
+513,Laterite,6.22,Kerala,24,Summer,Spices
+631,Sandy,5.68,Kerala,32,Winter,Spices
+513,Laterite,6.22,Kerala,24,Summer,Spices
+379,Peaty,18.48,Kerala,25,Monsoon,Spices
+728,Laterite,3.4,Kerala,28,Summer,Spices
+343,Peaty,16.43,Kerala,26,Monsoon,Spices
+513,Laterite,6.22,Kerala,24,Summer,Spices
+313,Laterite,9.65,Kerala,18,Winter,Spices
+379,Peaty,18.48,Kerala,25,Monsoon,Spices
+513,Laterite,6.22,Kerala,24,Summer,Spices
+379,Peaty,18.48,Kerala,25,Monsoon,Spices
+689,Sandy,7.02,Kerala,23,Monsoon,Spices
+343,Peaty,16.43,Kerala,26,Monsoon,Spices
+184,Sandy,6.32,Kerala,25,Monsoon,Spices
+313,Laterite,9.65,Kerala,18,Winter,Spices
+313,Laterite,9.65,Kerala,18,Winter,Spices
+728,Laterite,3.4,Kerala,28,Summer,Spices
+379,Peaty,18.48,Kerala,25,Monsoon,Spices
+631,Sandy,5.68,Kerala,32,Winter,Spices
+313,Laterite,9.65,Kerala,18,Winter,Spices
+379,Peaty,18.48,Kerala,25,Monsoon,Spices
+379,Peaty,18.48,Kerala,25,Monsoon,Spices
+558,Peaty,4.98,Kerala,44,Winter,Spices
+558,Peaty,4.98,Kerala,44,Winter,Spices
+184,Sandy,6.32,Kerala,25,Monsoon,Spices
+689,Sandy,7.02,Kerala,23,Monsoon,Spices
+184,Sandy,6.32,Kerala,25,Monsoon,Spices
+513,Laterite,6.22,Kerala,24,Summer,Spices
+631,Sandy,5.68,Kerala,32,Winter,Spices
+513,Laterite,6.22,Kerala,24,Summer,Spices
+726,Peaty,15.98,Kerala,19,Winter,Spices
+513,Laterite,6.22,Kerala,24,Summer,Spices
+728,Laterite,3.4,Kerala,28,Summer,Spices
+513,Laterite,6.22,Kerala,24,Summer,Spices
+184,Sandy,6.32,Kerala,25,Monsoon,Spices
+313,Laterite,9.65,Kerala,18,Winter,Spices
+313,Laterite,9.65,Kerala,18,Winter,Spices
+558,Peaty,4.98,Kerala,44,Winter,Spices
+631,Sandy,5.68,Kerala,32,Winter,Spices
+631,Sandy,5.68,Kerala,32,Winter,Spices
+728,Laterite,3.4,Kerala,28,Summer,Spices
+184,Sandy,6.32,Kerala,25,Monsoon,Spices
+558,Peaty,4.98,Kerala,44,Winter,Spices
+726,Peaty,15.98,Kerala,19,Winter,Spices
+631,Sandy,5.68,Kerala,32,Winter,Spices
+313,Laterite,9.65,Kerala,18,Winter,Spices
+513,Laterite,6.22,Kerala,24,Summer,Spices
+513,Laterite,6.22,Kerala,24,Summer,Spices
+558,Peaty,4.98,Kerala,44,Winter,Spices
+184,Sandy,6.32,Kerala,25,Monsoon,Spices
+184,Sandy,6.32,Kerala,25,Monsoon,Spices
+689,Sandy,7.02,Kerala,23,Monsoon,Spices
+343,Peaty,16.43,Kerala,26,Monsoon,Spices
+631,Sandy,5.68,Kerala,32,Winter,Spices
+184,Sandy,6.32,Kerala,25,Monsoon,Spices
+313,Laterite,9.65,Kerala,18,Winter,Spices
+558,Peaty,4.98,Kerala,44,Winter,Spices
+726,Peaty,15.98,Kerala,19,Winter,Spices
+689,Sandy,7.02,Kerala,23,Monsoon,Spices
+379,Peaty,18.48,Kerala,25,Monsoon,Spices
+728,Laterite,3.4,Kerala,28,Summer,Spices
+726,Peaty,15.98,Kerala,19,Winter,Spices
+379,Peaty,18.48,Kerala,25,Monsoon,Spices
+513,Laterite,6.22,Kerala,24,Summer,Spices
+728,Laterite,3.4,Kerala,28,Summer,Spices
+631,Sandy,5.68,Kerala,32,Winter,Spices
+313,Laterite,9.65,Kerala,18,Winter,Spices
+728,Laterite,3.4,Kerala,28,Summer,Spices
+343,Peaty,16.43,Kerala,26,Monsoon,Spices
+379,Peaty,18.48,Kerala,25,Monsoon,Spices
+631,Sandy,5.68,Kerala,32,Winter,Spices
+343,Peaty,16.43,Kerala,26,Monsoon,Spices
+513,Laterite,6.22,Kerala,24,Summer,Spices
+343,Peaty,16.43,Kerala,26,Monsoon,Spices
+689,Sandy,7.02,Kerala,23,Monsoon,Spices
+689,Sandy,7.02,Kerala,23,Monsoon,Spices
+558,Peaty,4.98,Kerala,44,Winter,Spices
+726,Peaty,15.98,Kerala,19,Winter,Spices
+726,Peaty,15.98,Kerala,19,Winter,Spices
+631,Sandy,5.68,Kerala,32,Winter,Spices
+513,Laterite,6.22,Kerala,24,Summer,Spices
+342,Black,5.24,Karnataka,15,Summer,Sugarcane
+674,Red,11.63,Karnataka,11,Winter,Sugarcane
+412,Alluvial,14.1,Uttar Pradesh,39,Winter,Sugarcane
+376,Clayey,8.72,Uttar Pradesh,36,Winter,Sugarcane
+922,Laterite,7.84,Karnataka,15,Winter,Sugarcane
+192,Loamy,3.83,Uttar Pradesh,15,Winter,Sugarcane
+193,Alluvial,8.28,Karnataka,32,Winter,Sugarcane
+967,Red,1.9,Karnataka,38,Monsoon,Sugarcane
+525,Clayey,16.73,Uttar Pradesh,33,Monsoon,Sugarcane
+137,Alluvial,10.91,Karnataka,14,Monsoon,Sugarcane
+103,Clayey,11.02,Uttar Pradesh,12,Summer,Sugarcane
+342,Black,5.24,Karnataka,15,Summer,Sugarcane
+104,Red,6.48,Karnataka,18,Summer,Sugarcane
+525,Clayey,16.73,Uttar Pradesh,33,Monsoon,Sugarcane
+591,Alluvial,3.72,Karnataka,22,Monsoon,Sugarcane
+633,Clayey,14.04,Uttar Pradesh,30,Monsoon,Sugarcane
+192,Loamy,3.83,Uttar Pradesh,15,Winter,Sugarcane
+543,Loamy,17.6,Uttar Pradesh,37,Summer,Sugarcane
+922,Laterite,7.84,Karnataka,15,Winter,Sugarcane
+694,Alluvial,9.14,Karnataka,12,Monsoon,Sugarcane
+249,Loamy,13.4,Uttar Pradesh,15,Summer,Sugarcane
+412,Alluvial,14.1,Uttar Pradesh,39,Winter,Sugarcane
+694,Alluvial,9.14,Karnataka,12,Monsoon,Sugarcane
+301,Loamy,16.07,Uttar Pradesh,10,Monsoon,Sugarcane
+137,Alluvial,10.91,Karnataka,14,Monsoon,Sugarcane
+591,Alluvial,3.72,Karnataka,22,Monsoon,Sugarcane
+801,Alluvial,16.1,Uttar Pradesh,24,Summer,Sugarcane
+685,Clayey,6.84,Uttar Pradesh,37,Winter,Sugarcane
+146,Black,19.32,Karnataka,22,Summer,Sugarcane
+801,Alluvial,16.1,Uttar Pradesh,24,Summer,Sugarcane
+103,Clayey,11.02,Uttar Pradesh,12,Summer,Sugarcane
+955,Red,9.67,Karnataka,21,Summer,Sugarcane
+922,Laterite,7.84,Karnataka,15,Winter,Sugarcane
+163,Laterite,9.36,Karnataka,11,Winter,Sugarcane
+767,Red,17.22,Karnataka,19,Monsoon,Sugarcane
+524,Loamy,12.69,Uttar Pradesh,14,Winter,Sugarcane
+631,Alluvial,11.43,Karnataka,22,Monsoon,Sugarcane
+109,Loamy,10.21,Uttar Pradesh,39,Winter,Sugarcane
+591,Loamy,4.04,Uttar Pradesh,28,Winter,Sugarcane
+193,Alluvial,8.28,Karnataka,32,Winter,Sugarcane
+591,Loamy,4.04,Uttar Pradesh,28,Winter,Sugarcane
+955,Red,9.67,Karnataka,21,Summer,Sugarcane
+674,Black,18.76,Karnataka,31,Summer,Sugarcane
+922,Laterite,7.84,Karnataka,15,Winter,Sugarcane
+674,Red,11.63,Karnataka,11,Winter,Sugarcane
+301,Loamy,16.07,Uttar Pradesh,10,Monsoon,Sugarcane
+674,Red,11.63,Karnataka,11,Winter,Sugarcane
+193,Alluvial,8.28,Karnataka,32,Winter,Sugarcane
+960,Black,1.96,Karnataka,44,Summer,Sugarcane
+405,Loamy,15.16,Uttar Pradesh,31,Monsoon,Sugarcane
+301,Loamy,16.07,Uttar Pradesh,10,Monsoon,Sugarcane
+335,Laterite,12.01,Karnataka,31,Winter,Sugarcane
+137,Alluvial,10.91,Karnataka,14,Monsoon,Sugarcane
+895,Clayey,15.27,Uttar Pradesh,31,Winter,Sugarcane
+817,Alluvial,4.36,Uttar Pradesh,33,Winter,Sugarcane
+543,Loamy,17.6,Uttar Pradesh,37,Summer,Sugarcane
+683,Laterite,10.24,Karnataka,34,Summer,Sugarcane
+714,Black,8.49,Karnataka,39,Winter,Sugarcane
+193,Alluvial,8.28,Karnataka,32,Winter,Sugarcane
+895,Clayey,15.27,Uttar Pradesh,31,Winter,Sugarcane
+917,Clayey,9.28,Uttar Pradesh,40,Summer,Sugarcane
+545,Laterite,10.34,Karnataka,24,Summer,Sugarcane
+996,Loamy,15.3,Uttar Pradesh,38,Summer,Wheat
+196,Black,5.52,Madhya Pradesh,26,Winter,Wheat
+572,Clayey,2.65,Uttar Pradesh,41,Winter,Wheat
+179,Loamy,1.83,Uttar Pradesh,44,Summer,Wheat
+196,Black,5.52,Madhya Pradesh,26,Winter,Wheat
+880,Black,16.77,Madhya Pradesh,25,Monsoon,Wheat
+883,Clayey,13.57,Uttar Pradesh,17,Summer,Wheat
+205,Loamy,17.11,Uttar Pradesh,44,Winter,Wheat
+151,Alluvial,4.6,Madhya Pradesh,16,Monsoon,Wheat
+883,Clayey,13.57,Uttar Pradesh,17,Summer,Wheat
+883,Clayey,13.57,Uttar Pradesh,17,Summer,Wheat
+507,Clayey,18.75,Uttar Pradesh,35,Monsoon,Wheat
+572,Clayey,2.65,Uttar Pradesh,41,Winter,Wheat
+404,Red,4.24,Madhya Pradesh,14,Winter,Wheat
+665,Black,1.64,Madhya Pradesh,35,Monsoon,Wheat
+196,Black,5.52,Madhya Pradesh,26,Winter,Wheat
+507,Clayey,18.75,Uttar Pradesh,35,Monsoon,Wheat
+795,Alluvial,6.27,Uttar Pradesh,31,Monsoon,Wheat
+665,Black,1.64,Madhya Pradesh,35,Monsoon,Wheat
+420,Clayey,4.52,Uttar Pradesh,43,Monsoon,Wheat
+996,Loamy,15.3,Uttar Pradesh,38,Summer,Wheat
+112,Alluvial,1.93,Madhya Pradesh,43,Monsoon,Wheat
+280,Alluvial,15.12,Uttar Pradesh,32,Winter,Wheat
+968,Alluvial,3.24,Madhya Pradesh,26,Monsoon,Wheat
+968,Alluvial,3.24,Madhya Pradesh,26,Monsoon,Wheat
+733,Loamy,19.42,Uttar Pradesh,32,Monsoon,Wheat
+215,Mixed,15.43,Madhya Pradesh,40,Winter,Wheat
+880,Black,16.77,Madhya Pradesh,25,Monsoon,Wheat
+835,Alluvial,14.7,Madhya Pradesh,22,Monsoon,Wheat
+112,Alluvial,13.78,Madhya Pradesh,12,Monsoon,Wheat
+280,Alluvial,15.12,Uttar Pradesh,32,Winter,Wheat
+968,Alluvial,3.24,Madhya Pradesh,26,Monsoon,Wheat
+572,Clayey,2.65,Uttar Pradesh,41,Winter,Wheat
+322,Black,16.6,Madhya Pradesh,39,Summer,Wheat
+238,Alluvial,13.94,Madhya Pradesh,36,Summer,Wheat
+835,Alluvial,14.7,Madhya Pradesh,22,Monsoon,Wheat
+953,Red,13.72,Madhya Pradesh,45,Monsoon,Wheat
+230,Alluvial,8.55,Madhya Pradesh,40,Summer,Wheat
+112,Alluvial,13.78,Madhya Pradesh,12,Monsoon,Wheat
+841,Alluvial,4.25,Madhya Pradesh,34,Winter,Wheat
+728,Mixed,15.83,Madhya Pradesh,23,Summer,Wheat
+444,Loamy,17.25,Uttar Pradesh,35,Monsoon,Wheat
+572,Clayey,2.65,Uttar Pradesh,41,Winter,Wheat
+206,Black,4.06,Madhya Pradesh,33,Summer,Wheat
+280,Alluvial,15.12,Uttar Pradesh,32,Winter,Wheat
+953,Red,13.72,Madhya Pradesh,45,Monsoon,Wheat
+458,Red,19.43,Madhya Pradesh,24,Summer,Wheat
+841,Alluvial,4.25,Madhya Pradesh,34,Winter,Wheat
+665,Black,1.64,Madhya Pradesh,35,Monsoon,Wheat
+278,Loamy,8.1,Uttar Pradesh,33,Winter,Wheat
+665,Black,1.64,Madhya Pradesh,35,Monsoon,Wheat
+835,Alluvial,14.7,Madhya Pradesh,22,Monsoon,Wheat
+362,Clayey,1.62,Uttar Pradesh,12,Summer,Wheat
+205,Loamy,17.11,Uttar Pradesh,44,Winter,Wheat
+548,Black,5.78,Madhya Pradesh,32,Summer,Wheat
+179,Loamy,1.83,Uttar Pradesh,44,Summer,Wheat
+205,Loamy,17.11,Uttar Pradesh,44,Winter,Wheat
+238,Alluvial,13.94,Madhya Pradesh,36,Summer,Wheat
+323,Black,17.79,Madhya Pradesh,40,Monsoon,Wheat
+322,Black,16.6,Madhya Pradesh,39,Summer,Wheat
+953,Red,13.72,Madhya Pradesh,45,Monsoon,Wheat
+299,Mixed,4.64,Madhya Pradesh,42,Winter,Wheat
+572,Clayey,2.65,Uttar Pradesh,41,Winter,Wheat
+206,Black,4.06,Madhya Pradesh,33,Summer,Wheat
+205,Loamy,17.11,Uttar Pradesh,44,Winter,Wheat
+444,Loamy,17.25,Uttar Pradesh,35,Monsoon,Wheat
+211,Loamy,8.26,Uttar Pradesh,23,Monsoon,Wheat
